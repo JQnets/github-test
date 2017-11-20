@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>JQnets 甲寬網路科技</title>
+    <title>JQnets 甲寬網路科技 - 測試資料異動</title>
     <!-- CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/fonts/notosanstc/notosanstc.css" rel="stylesheet">
