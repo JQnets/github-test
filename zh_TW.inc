@@ -9,10 +9,7 @@
      */
 
     // 主版面
-<<<<<<< HEAD
     $LANG_USER_LOGIN            = "使用者登入";
-=======
->>>>>>> ad3b98170c8d3923111772e8951360024563848b
     $LANG_PAGE_META             = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT        = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION          = "1.2 國際版";
