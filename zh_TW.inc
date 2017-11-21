@@ -8,6 +8,7 @@
      * 以免後續變更造成不一致。
      */
 
+    // git test
     // 主版面
     $LANG_PAGE_META             = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT        = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
