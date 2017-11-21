@@ -9,7 +9,6 @@
      */
 
     // 主版面
-    $LANG_USER_LOGIN            = "使用者登入";
     $LANG_PAGE_META             = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT        = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION          = "1.2 國際版";
@@ -22,6 +21,7 @@
     $LANG_SESSION_AUTH_RETRY_LOCK = "登入錯誤次數超過3次，已被鎖定此帳號，請於30分鐘後在重新登入！";
     $LANG_SESSION_AUTH_VALIDATE_FAILURE = "驗證錯誤！";
 
+    // 使用者相關
     $LANG_USER_WELCOME          = "歡迎您來到999康養財富計劃";
     $LANG_USER_LOGIN            = "使用者登入";
     $LANG_USER_ACCOUNT          = "帳號";
@@ -32,4 +32,12 @@
     $LANG_USER_NEED_REPASSWORD  = "請重覆輸入密碼";
     $LANG_USER_FORGET_PASS      = "忘記密碼";
     $LANG_USER_REPASSWORD_ERROR = "兩次密碼輸入的不一致";
+    $LANG_USER_AUTH_SUCCESS     = "已認證";
+    $LANG_USER_AUTH_FAILURE     = "未認證";
+    $LANG_USER_GRADE            = "會員等級";
+    $LANG_USER_NUMBER           = "會員編號";
+    $LANG_USER_SINGUP_TIME      = "註冊時間";
+    $LANG_USER_BONUS_CAPITAL    = "獎金帳戶";
+    $LANG_USER_BONUS_BALANCE    = "財富金";
+    $LANG_USER_BONUS_FUND       = "康養積分";
 ?>
