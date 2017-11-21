@@ -8,7 +8,6 @@
      * 以免後續變更造成不一致。
      */
 
-    // git test
     // 主版面
     $LANG_PAGE_META             = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT        = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
@@ -40,5 +39,5 @@
     $LANG_USER_SINGUP_TIME      = "註冊時間";
     $LANG_USER_BONUS_CAPITAL    = "獎金帳戶";
     $LANG_USER_BONUS_BALANCE    = "財富金";
-    $LANG_USER_BONUS_FUND       = "康養積分";
+    $LANG_USER_BONUS_FUND       = "22康養積分";
 ?>
