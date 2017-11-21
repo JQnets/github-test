@@ -39,5 +39,5 @@
     $LANG_USER_SINGUP_TIME      = "註冊時間";
     $LANG_USER_BONUS_CAPITAL    = "獎金帳戶";
     $LANG_USER_BONUS_BALANCE    = "財富金";
-    $LANG_USER_BONUS_FUND       = "22康養積分";
+    $LANG_USER_BONUS_FUND       = "康養積分";
 ?>
