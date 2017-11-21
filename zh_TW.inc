@@ -3,9 +3,13 @@
      * ----------------
      *   提醒! 請注意!
      * ----------------
-     * 若不確定已存在的語系變數用途是一樣的，
-     * 則自行命名一組語系變數，
-     * 以免後續變更造成不一致。
+     * 1. 確認用途
+     *     若不確定已存在的語系變數用途是一樣的，
+     *     則自行命名一組語系變數，
+     *     以免後續變更造成不一致。
+     *
+     * 2. 確認變數不重覆
+     * ----------------
      */
 
     // 主版面
@@ -40,4 +44,30 @@
     $LANG_USER_BONUS_CAPITAL    = "獎金帳戶";
     $LANG_USER_BONUS_BALANCE    = "財富金";
     $LANG_USER_BONUS_FUND       = "康養積分";
+
+    // 系統
+    $LANG_SYSTEM_BONUS_STORED   = "儲值";
+    $LANG_SYSTEM_BONUS_TRANSFER = "互轉";
+    $LANG_SYSTEM_READ_MORE      = "查看更多";
+    $LANG_SYSTEM_NEWS           = "公告";
+    $LANG_SYSTEM_NEWS_TIME      = "發佈時間";
+    $LANG_SYSTEM_NEWS_CONTENT   = "公告內容";
+    $LANG_SYSTEM_COMMON_FUNC    = "常用功能";
+    $LANG_SYSTEM_COMMON_FUNC_1  = "註冊會員";
+    $LANG_SYSTEM_COMMON_FUNC_2  = "帳戶明細";
+    $LANG_SYSTEM_COMMON_FUNC_3  = "接點查詢";
+    $LANG_SYSTEM_COMMON_FUNC_4  = "提現申請";
+    $LANG_SYSTEM_COMMON_FUNC_5  = "聯繫客服";
+    $LANG_SYSTEM_COMMON_FUNC_5  = "聯繫客服";
+    $LANG_SYSTEM_USER_PV        = "我的PV收益";
+    $LANG_SYSTEM_USER_PV_ADDITION = "新增獎金";
+    $LANG_SYSTEM_USER_PV_HISTORY  = "歷史獎金";
+    $LANG_SYSTEM_USER_BUSINESS  = "我的業務資訊";
+    $LANG_SYSTEM_USER_BUSINESS_LEVEL   = "目前層數";
+    $LANG_SYSTEM_USER_BUSINESS_PROMOTE = "推薦人數";
+
+    $LANG_SYSTEM_CURRENCY       = "幣別";
+    $LANG_SYSTEM_CURRENCY_USD   = "美元";
+    $LANG_SYSTEM_CURRENCY_NT    = "新台幣";
+    $LANG_SYSTEM_CURRENCY_RMB   = "人民幣";
 ?>
