@@ -65,9 +65,12 @@
     $LANG_SYSTEM_USER_BUSINESS  = "我的業務資訊";
     $LANG_SYSTEM_USER_BUSINESS_LEVEL   = "目前層數";
     $LANG_SYSTEM_USER_BUSINESS_PROMOTE = "推薦人數";
-
     $LANG_SYSTEM_CURRENCY       = "幣別";
     $LANG_SYSTEM_CURRENCY_USD   = "美元";
     $LANG_SYSTEM_CURRENCY_NT    = "新台幣";
     $LANG_SYSTEM_CURRENCY_RMB   = "人民幣";
+    $LANG_SYSTEM_DELETE_CONFIRM = "你是否確定要刪除 %s 這筆資料？";
+    $LANG_SYSTEM_ADD_DONE       = "新增完畢";
+    $LANG_SYSTEM_EDIT_DONE      = "修改完畢";
+    $LANG_SYSTEM_DEL_DONE       = "刪除完畢";
 ?>
