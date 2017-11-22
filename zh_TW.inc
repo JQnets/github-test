@@ -73,4 +73,6 @@
     $LANG_SYSTEM_ADD_DONE       = "新增完畢";
     $LANG_SYSTEM_EDIT_DONE      = "修改完畢";
     $LANG_SYSTEM_DEL_DONE       = "刪除完畢";
+
+    // 測試
 ?>
