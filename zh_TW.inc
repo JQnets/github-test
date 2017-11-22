@@ -12,7 +12,7 @@
      * ----------------
      */
 
-    // 主版面
+    // 主版面 git test
     $LANG_PAGE_META             = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT        = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION          = "1.2 國際版";
