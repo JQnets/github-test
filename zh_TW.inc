@@ -74,5 +74,6 @@
     $LANG_SYSTEM_EDIT_DONE      = "修改完畢";
     $LANG_SYSTEM_DEL_DONE       = "刪除完畢";
 
-    // 測試
+
+    // Jimmy
 ?>
