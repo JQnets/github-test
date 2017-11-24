@@ -44,6 +44,7 @@
     $LANG_USER_BONUS_CAPITAL    = "獎金帳戶";
     $LANG_USER_BONUS_BALANCE    = "財富金";
     $LANG_USER_BONUS_FUND       = "康養積分";
+    $LANG_USER_JOIN_TEXT        = "加入";
 
     // 系統
     $LANG_SYSTEM_BONUS_STORED   = "儲值";
