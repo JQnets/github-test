@@ -86,6 +86,45 @@
     $LANG_SYSTEM_ADD_BTN               = "新增";
     $LANG_SYSTEM_ADD_FAST_BTN          = "快速新增";
 
+    // 通用
+    $LANG_COMMON_TEXT_LOADING          = "資料讀取中... 請稍候! <br/>Loading...";
+    $LANG_COMMON_TEXT_HOME             = "首頁";
+    $LANG_COMMON_TEXT_VIEW             = "檢視";
+    $LANG_COMMON_TEXT_ADD              = "新增";
+    $LANG_COMMON_TEXT_EDIT             = "編輯";
+    $LANG_COMMON_TEXT_DELETE           = "刪除";
+    $LANG_COMMON_TEXT_LIST             = "列表";
+    $LANG_COMMON_TEXT_REPORT           = "報表";
+    $LANG_COMMON_TEXT_SELECT_ALL       = "全選";
+    $LANG_COMMON_TEXT_SAVE             = "儲存";
+    $LANG_COMMON_TEXT_CANCEL           = "取消";
+    $LANG_COMMON_TEXT_CLOSE            = "關閉";
+    $LANG_COMMON_TEXT_OK               = "確定";
+    $LANG_COMMON_TEXT_PAGE             = "第 <b> %s </b> - <b> %s </b> 列 (共有 <b> %s </b> 列)";
+    $LANG_COMMON_TEXT_PAGE_LENGTHMENU  = "顯示 %s 筆記錄";
+    $LANG_COMMON_TEXT_PAGE_INFOEMPTY   = "沒有任何資料";
+    $LANG_COMMON_TEXT_PAGE_ZERORECORD  = "沒有找到任何相符的資料";
+
+    // roles
+    $LANG_ROLES_OPER                   = "操作";
+    $LANG_ROLES_HASHTAG                = "#";
+    $LANG_ROLES_ID                     = "角色ID";
+    $LANG_ROLES_NAME                   = "角色名稱";
+    $LANG_ROLES_MEMO                   = "備註";
+    $LANG_ROLES_AUTH                   = "授權";
+    $LANG_ROLES_SYSTEM_CREATE          = "系統自動建立";
+    $LANG_ROLES_SYSTEM_CREATE          = "系統自動建立";
+
+    // user_authlog
+    $LANG_USERAUTH_USER                = "使用者";
+    $LANG_USERAUTH_ACTIVE              = "開啟授權";
+    $LANG_USERAUTH_ACTIVE_ITEM         = "使用者授權表ID";
+    $LANG_USERAUTH_PERIOD              = "授權期間";
+    $LANG_USERAUTH_START_TIME          = "授權開始日期";
+    $LANG_USERAUTH_END_TIME            = "授權結束日期";
+    $LANG_USERAUTH_CANCEL_CONFIRM_PREFIX  = "是否要取消";
+    $LANG_USERAUTH_CANCEL_CONFIRM_POSTFIX = "的授權";
+
     // 會員管理
     $LANG_PROGRAM_PROGCODE_COL_1       = "";
 
