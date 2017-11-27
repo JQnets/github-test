@@ -47,33 +47,38 @@
     $LANG_USER_JOIN_TEXT        = "加入";
 
     // 系統
-    $LANG_SYSTEM_BONUS_STORED   = "儲值";
-    $LANG_SYSTEM_BONUS_TRANSFER = "互轉";
-    $LANG_SYSTEM_READ_MORE      = "查看更多";
-    $LANG_SYSTEM_NEWS           = "公告";
-    $LANG_SYSTEM_NEWS_TIME      = "發佈時間";
-    $LANG_SYSTEM_NEWS_CONTENT   = "公告內容";
-    $LANG_SYSTEM_COMMON_FUNC    = "常用功能";
-    $LANG_SYSTEM_COMMON_FUNC_1  = "註冊會員";
-    $LANG_SYSTEM_COMMON_FUNC_2  = "帳戶明細";
-    $LANG_SYSTEM_COMMON_FUNC_3  = "接點查詢";
-    $LANG_SYSTEM_COMMON_FUNC_4  = "提現申請";
-    $LANG_SYSTEM_COMMON_FUNC_5  = "聯繫客服";
-    $LANG_SYSTEM_COMMON_FUNC_5  = "聯繫客服";
-    $LANG_SYSTEM_USER_PV        = "我的PV收益";
-    $LANG_SYSTEM_USER_PV_ADDITION = "新增獎金";
-    $LANG_SYSTEM_USER_PV_HISTORY  = "歷史獎金";
-    $LANG_SYSTEM_USER_BUSINESS  = "我的業務資訊";
+    $LANG_SYSTEM_BONUS_STORED          = "儲值";
+    $LANG_SYSTEM_BONUS_TRANSFER        = "互轉";
+    $LANG_SYSTEM_READ_MORE             = "查看更多";
+    $LANG_SYSTEM_NEWS                  = "公告";
+    $LANG_SYSTEM_NEWS_TIME             = "發佈時間";
+    $LANG_SYSTEM_NEWS_CONTENT          = "公告內容";
+    $LANG_SYSTEM_COMMON_FUNC           = "常用功能";
+    $LANG_SYSTEM_COMMON_FUNC_1         = "註冊會員";
+    $LANG_SYSTEM_COMMON_FUNC_2         = "帳戶明細";
+    $LANG_SYSTEM_COMMON_FUNC_3         = "接點查詢";
+    $LANG_SYSTEM_COMMON_FUNC_4         = "提現申請";
+    $LANG_SYSTEM_COMMON_FUNC_5         = "聯繫客服";
+    $LANG_SYSTEM_COMMON_FUNC_5         = "聯繫客服";
+    $LANG_SYSTEM_USER_PV               = "我的PV收益";
+    $LANG_SYSTEM_USER_PV_ADDITION      = "新增獎金";
+    $LANG_SYSTEM_USER_PV_HISTORY       = "歷史獎金";
+    $LANG_SYSTEM_USER_BUSINESS         = "我的業務資訊";
     $LANG_SYSTEM_USER_BUSINESS_LEVEL   = "目前層數";
     $LANG_SYSTEM_USER_BUSINESS_PROMOTE = "推薦人數";
-    $LANG_SYSTEM_CURRENCY       = "幣別";
-    $LANG_SYSTEM_CURRENCY_USD   = "美元";
-    $LANG_SYSTEM_CURRENCY_NT    = "新台幣";
-    $LANG_SYSTEM_CURRENCY_RMB   = "人民幣";
-    $LANG_SYSTEM_DELETE_CONFIRM = "你是否確定要刪除 %s 這筆資料？";
-    $LANG_SYSTEM_ADD_DONE       = "新增完畢";
-    $LANG_SYSTEM_EDIT_DONE      = "修改完畢";
-    $LANG_SYSTEM_DEL_DONE       = "刪除完畢";
+    $LANG_SYSTEM_CURRENCY              = "幣別";
+    $LANG_SYSTEM_CURRENCY_USD          = "美元";
+    $LANG_SYSTEM_CURRENCY_NT           = "新台幣";
+    $LANG_SYSTEM_CURRENCY_RMB          = "人民幣";
+    $LANG_SYSTEM_DELETE_CONFIRM        = "你是否確定要刪除 %s 這筆資料？";
+    $LANG_SYSTEM_ADD_DONE              = "新增完畢";
+    $LANG_SYSTEM_EDIT_DONE             = "修改完畢";
+    $LANG_SYSTEM_DEL_DONE              = "刪除完畢";
+    $LANG_SYSTEM_ADD_BTN               = "新增";
+    $LANG_SYSTEM_ADD_FAST_BTN          = "快速新增";
 
-    // winnie 測試
+    // 會員管理
+    $LANG_PROGRAM_PROGCODE_Col_1 = "";
+
+
 ?>
