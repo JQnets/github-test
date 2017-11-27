@@ -90,7 +90,6 @@
     $LANG_COMMON_TEXT_LOADING          = "資料讀取中... 請稍候! <br/>Loading...";
     $LANG_COMMON_TEXT_OPER             = "操作";
     $LANG_COMMON_TEXT_VIEW             = "檢視";
-    $LANG_COMMON_TEXT_VIEW             = "檢視";
     $LANG_COMMON_TEXT_ADD              = "新增";
     $LANG_COMMON_TEXT_EDIT             = "編輯";
     $LANG_COMMON_TEXT_DELETE           = "刪除";
