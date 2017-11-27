@@ -85,6 +85,7 @@
     $LANG_SYSTEM_DEL_DONE              = "刪除完畢";
     $LANG_SYSTEM_ADD_BTN               = "新增";
     $LANG_SYSTEM_OPER_FAIL             = "操作失敗";
+    $LANG_SYSTEM_AUTOCREATE            = "系統自動建立";
 
     // 通用
     $LANG_COMMON_TEXT_LOADING          = "資料讀取中... 請稍候! <br/>Loading...";
@@ -118,7 +119,6 @@
     $LANG_ROLES_NAME                   = "角色名稱";
     $LANG_ROLES_MEMO                   = "備註";
     $LANG_ROLES_AUTH                   = "授權";
-    $LANG_ROLES_SYSTEM_CREATE          = "系統自動建立";
     $LANG_ROLES_SYSTEM_CREATE          = "系統自動建立";
 
     // user_authlog / userrole_authlog
