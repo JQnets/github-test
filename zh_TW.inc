@@ -25,6 +25,12 @@
     $LANG_SESSION_AUTH_RETRY_LOCK = "登入錯誤次數超過3次，已被鎖定此帳號，請於30分鐘後在重新登入！";
     $LANG_SESSION_AUTH_VALIDATE_FAILURE = "驗證錯誤！";
 
+    $LANG_SESSION_KEEP_TIME = "登入持續時間";
+    $LANG_SESSION_KEEP_TIME_24H = "1天";
+    $LANG_SESSION_KEEP_TIME_168H = "1周( 7天 )";
+    $LANG_SESSION_KEEP_TIME_720H = "1個月( 30天 )";
+    $LANG_SESSION_KEEP_TIME_2160H = "3個月( 90天 )";
+
     // 使用者相關
     $LANG_USER_WELCOME          = "歡迎您來到999康養財富計劃";
     $LANG_USER_LOGIN            = "使用者登入";
@@ -78,7 +84,60 @@
     $LANG_SYSTEM_ADD_FAST_BTN          = "快速新增";
 
     // 會員管理
-    $LANG_PROGRAM_PROGCODE_Col_1 = "";
+    $LANG_PROGRAM_PROGCODE_COL_1       = "";
+
+
+
+
+
+    /**
+     * ----------------
+     *   toolkits用,宣告全域變數
+     * ----------------
+     */
+    //toolkits用
+    $GLOBALS['tk_lang'] = [
+                        "LANG_REQUIRED"           => "此欄位不可空白!",
+                        "LANG_QTIP_EMAIL_TITLE"   => "電子信箱",
+                        "LANG_QTIP_EMAIL_TEXT"    => "格式為",
+                        "LANG_QTIP_DEFAULT_TITLE" => "標題",
+                        "LANG_QTIP_DEFAULT_TEXT"  => "內容",
+                        "LANG_IMG_TITLE"          => "圖片預覽",
+                        "LANG_PWD_VALUE"          => "產生亂碼",
+                        "LANG_CHECKREPEAT_TEXT"   => "有重複的資料",
+                        ];
+
+    //toolkits的validator用,
+    $GLOBALS["validator_lang"] = [
+                                "LANG_REQUIRED" => "這個欄位是必填的11",
+                                "LANG_REMOTE" => "請修正這個錯誤",
+                                "LANG_EMAIL" => "請輸入正確格式的電子信箱",
+                                "LANG_URL" => "請輸入正確的網址",
+                                "LANG_DATE" => "請輸入正確的日期格式",
+                                "LANG_DATE_ISO" => "日期格式，格式必需為YYYY/MM/DD、YYYY-MM-DD、YYYYMMDD",
+                                "LANG_NUMBER" => "請輸入正確格式的號碼",
+                                "LANG_DIGITS" => "只能輸入數字",
+                                "LANG_CREDITCARD" => "請輸入正確的信用卡號",
+                                "LANG_EXTENSION" => "請輸入有效的後綴",
+                                "LANG_MAXLENGTH" => "不能輸入超過 {0} 個字元",
+                                "LANG_MINLENGTH" => "至少需輸入大於 {0} 個字元",
+                                "LANG_RANGELENGTH" => "輸入需介於 {0} 和 {1} 的字元數.",
+                                "LANG_RANGE" => "請輸入範圍在 {0} 到 {1} 之間的數值",
+                                "LANG_MAX" => "請輸入小於 {0} 的數字.",
+                                "LANG_MIN" => "请請輸入大於 {0} 的數字.",
+                                "LANG_" => "",
+                                ];
+
+    /**
+     * ----------------
+     *   toolkits用
+     * ----------------
+     */
+    $GLOBALS["dt_lang"] = [
+                        "LANG_COLUMN_MODAL_LABEL" => "欄位(顯示/隱藏)設定",
+                        "LANG_COLUMN_MODAL_SAVE"  => "確定",
+                        "LANG_COLUMN_BUTTON_TEXT" => "顯示/隱藏欄位",
+                        ];
 
 
 ?>
