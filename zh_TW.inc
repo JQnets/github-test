@@ -84,7 +84,7 @@
     $LANG_SYSTEM_EDIT_DONE             = "修改完畢";
     $LANG_SYSTEM_DEL_DONE              = "刪除完畢";
     $LANG_SYSTEM_ADD_BTN               = "新增";
-    $LANG_SYSTEM_ADD_FAST_BTN          = "快速新增";
+    $LANG_SYSTEM_OPER_FAIL             = "操作失敗";
 
     // 通用
     $LANG_COMMON_TEXT_LOADING          = "資料讀取中... 請稍候! <br/>Loading...";
@@ -95,6 +95,10 @@
     $LANG_COMMON_TEXT_DELETE           = "刪除";
     $LANG_COMMON_TEXT_LIST             = "列表";
     $LANG_COMMON_TEXT_REPORT           = "報表";
+    $LANG_COMMON_TEXT_QUICK_ADD        = "快速新增";
+    $LANG_COMMON_TEXT_QUICK_EDIT       = "快速編輯";
+    $LANG_COMMON_TEXT_MUTLTI_EDIT      = "多筆編輯";
+    $LANG_COMMON_TEXT_MUTLTI_DELETE    = "多筆刪除";
     $LANG_COMMON_TEXT_SELECT_ALL       = "全選";
     $LANG_COMMON_TEXT_SAVE             = "儲存";
     $LANG_COMMON_TEXT_CANCEL           = "取消";
