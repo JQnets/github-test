@@ -18,13 +18,14 @@
     $LANG_PAGE_VERSION          = "1.2 國際版";
 
     // Session(COOKIE) & Login
+    $LANG_SESSION_ACTIVE        = "<p>目前你的瀏覽器未開啟COOKIE，無法進入。</p> <br / > 請開啟COOKIE後在登入。</p>";
     $LANG_SESSION_AUTH_SUCCESS  = "登入成功！";
     $LANG_SESSION_AUTH_FAILURE  = "帳號或密碼輸入錯誤，請重新登入！";
     $LANG_SESSION_AUTH_LOCK     = "您的帳號已被鎖定，請於30分鐘後在重新登入！";
     $LANG_SESSION_AUTH_RETRY    = "帳號或密碼輸入錯誤，請重新登入！可嘗試登入次數：";
     $LANG_SESSION_AUTH_RETRY_LOCK = "登入錯誤次數超過3次，已被鎖定此帳號，請於30分鐘後在重新登入！";
-    $LANG_SESSION_AUTH_VALIDATE_FAILURE = "驗證錯誤！";
-
+    $LANG_SESSION_AUTH_VALIDATE_FAILURE = "驗證碼認證錯誤！";
+    $LANG_SESSION_AUTH_VALIDATE_EXPIRE = "驗證碼過期,請重新登入。";
     $LANG_SESSION_KEEP_TIME = "登入持續時間";
     $LANG_SESSION_KEEP_TIME_24H = "1天";
     $LANG_SESSION_KEEP_TIME_168H = "1周( 7天 )";
@@ -36,6 +37,8 @@
     $LANG_USER_LOGIN            = "使用者登入";
     $LANG_USER_ACCOUNT          = "帳號";
     $LANG_USER_PASSWORD         = "密碼";
+    $LANG_USER_VALIDATECODE     = "驗證碼";
+    $LANG_USER_VALIDATECODE_PLACEHOLDER = "請輸入驗證碼";
     $LANG_USER_SIGNIN           = "登入";
     $LANG_USER_SIGNIN_KEEP      = "記住密碼";
     $LANG_USER_REPASSWORD       = "確認密碼";
