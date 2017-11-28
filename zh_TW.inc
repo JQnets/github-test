@@ -194,7 +194,7 @@
     $LANG_PROGRAM_PROGRAMS_FILTER_PARENT    = "父節點篩選";
     $LANG_PROGRAM_PROGRAMS_FILTER_LEVEL     = "階層篩選";
     $LANG_PROGRAM_PROGRAMS_TRANS_YES        = "是";
-    $LANG_PROGRAM_PROGRAMS_TRANS_no         = "否";
+    $LANG_PROGRAM_PROGRAMS_TRANS_NO         = "否";
 
 
     // 會員管理
