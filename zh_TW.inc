@@ -174,7 +174,7 @@
     $LANG_PROGRAM_PROGRAMS_COL_pg_code      = "代碼";
     $LANG_PROGRAM_PROGRAMS_COL_pg_name      = "名稱";
     $LANG_PROGRAM_PROGRAMS_COL_pg_level     = "階層";
-    $LANG_PROGRAM_PROGRAMS_COL_pg_parent    = "父ID";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_parent    = "父節點";
     $LANG_PROGRAM_PROGRAMS_COL_pg_order     = "排序";
     $LANG_PROGRAM_PROGRAMS_COL_is_auth      = "授權";
     $LANG_PROGRAM_PROGRAMS_COL_is_active    = "啟用";
