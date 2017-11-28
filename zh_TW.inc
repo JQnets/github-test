@@ -168,6 +168,29 @@
     $LANG_WEBCONFIG_SMTP_PORT          = "SMTP連接埠";
 
 
+    // 程式管理 ( Programs )
+    $LANG_PROGRAM_PROGRAMS_COL_pg_code      = "代碼";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_name      = "名稱";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_level     = "階層";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_parent    = "父ID";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_order     = "排序";
+    $LANG_PROGRAM_PROGRAMS_COL_is_auth      = "授權";
+    $LANG_PROGRAM_PROGRAMS_COL_is_active    = "啟用";
+    $LANG_PROGRAM_PROGRAMS_COL_is_visible   = "可見";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_descr     = "說明";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_html      = "網頁連結";
+    $LANG_PROGRAM_PROGRAMS_COL_pg_icon      = "圖示";
+    $LANG_PROGRAM_PROGRAMS_COL_trial_stime  = "試用開始時間";
+    $LANG_PROGRAM_PROGRAMS_COL_trial_etime  = "試用結束時間";
+    $LANG_PROGRAM_PROGRAMS_COL_is_new       = "是否顯示new";
+    $LANG_PROGRAM_PROGRAMS_COL_is_new_stime = "顯示new 的開始時間";
+    $LANG_PROGRAM_PROGRAMS_COL_is_new_etime = "顯示new 的結束時間";
+    $LANG_PROGRAM_PROGRAMS_COL_unread_msg   = "未讀訊息";
+    $LANG_PROGRAM_PROGRAMS_COL_is_remove    = "是否移除";
+    $LANG_PROGRAM_PROGRAMS_COL_can_delete   = "是否可刪除";
+    $LANG_PROGRAM_PROGRAMS_COL_memo         = "備註";
+
+
     // 會員管理
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
     $LANG_PROGRAM_MEMBER_COL_membe_account    = "會員帳號";
