@@ -161,7 +161,22 @@
 
 
     // 會員管理
-    $LANG_PROGRAM_PROGCODE_COL_1       = "";
+    $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
+    $LANG_PROGRAM_MEMBER_COL_membe_account    = "會員帳號";
+    $LANG_PROGRAM_MEMBER_COL_membe_name       = "名稱";
+    $LANG_PROGRAM_MEMBER_COL_membe_f_membe_id = "安置人";
+    $LANG_PROGRAM_MEMBER_COL_membe_r_membe_id = "推薦人";
+    $LANG_PROGRAM_MEMBER_COL_check_real_name  = "實名審核";
+    $LANG_PROGRAM_MEMBER_COL_update_time      = "更新日期";
+    $LANG_PROGRAM_MEMBER_COL_membe_first_pwd  = "會員密碼";
+    $LANG_PROGRAM_MEMBER_COL_membe_second_pwd = "二級密碼";
+    $LANG_PROGRAM_MEMBER_COL_membe_nickname   = "暱稱";
+    $LANG_PROGRAM_MEMBER_COL_membe_gender     = "性別";
+    $LANG_PROGRAM_MEMBER_COL_membe_email      = "電子信箱";
+    $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
+    $LANG_PROGRAM_MEMBER_COL_create_time      = "創建日期";
+    $LANG_PROGRAM_MEMBER_COL_create_user      = "建立人員";
+    $LANG_PROGRAM_MEMBER_COL_update_user      = "更新人員";
 
 
 
