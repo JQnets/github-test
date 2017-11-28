@@ -85,6 +85,7 @@
     $LANG_SYSTEM_DEL_DONE              = "刪除完畢";
     $LANG_SYSTEM_ADD_BTN               = "新增";
     $LANG_SYSTEM_OPER_FAIL             = "操作失敗";
+    $LANG_SYSTEM_AUTH_FAIL             = "程式認證失敗";
     $LANG_SYSTEM_AUTOCREATE            = "系統自動建立";
 
     // 通用
@@ -101,6 +102,7 @@
     $LANG_COMMON_TEXT_QUICK_ADD        = "快速新增";
     $LANG_COMMON_TEXT_QUICK_EDIT       = "快速編輯";
     $LANG_COMMON_TEXT_MUTLTI_EDIT      = "多筆編輯";
+    $LANG_COMMON_TEXT_MUTLTI_EDIT_TEXT = "請填入欲多筆統一修改的值，若不異動原始資料請保持欄位空白！";
     $LANG_COMMON_TEXT_MUTLTI_DELETE    = "多筆刪除";
     $LANG_COMMON_TEXT_SELECT_ALL       = "全選";
     $LANG_COMMON_TEXT_SAVE             = "儲存";
