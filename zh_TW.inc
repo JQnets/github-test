@@ -107,6 +107,7 @@
     $LANG_COMMON_TEXT_SELECT_ALL       = "全選";
     $LANG_COMMON_TEXT_SAVE             = "儲存";
     $LANG_COMMON_TEXT_CANCEL           = "取消";
+    $LANG_COMMON_TEXT_ACTIVE           = "啟用";
     $LANG_COMMON_TEXT_CLOSE            = "關閉";
     $LANG_COMMON_TEXT_OK               = "確定";
     $LANG_COMMON_TEXT_PAGE             = "第 <b> %s </b> - <b> %s </b> 列 (共有 <b> %s </b> 列)";
