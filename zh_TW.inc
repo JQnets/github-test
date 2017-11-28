@@ -113,6 +113,12 @@
     $LANG_COMMON_TEXT_PAGE_ZERORECORD  = "沒有找到任何相符的資料";
     $LANG_COMMON_TEXT_DATA_EXPAND      = "全展開";
     $LANG_COMMON_TEXT_DATA_SHRINK      = "全收合";
+    $LANG_COMMON_TEXT_BASIC_INFO       = "基本資訊";
+    $LANG_COMMON_TEXT_CREATE_INFO      = "創建資訊";
+    $LANG_COMMON_TEXT_CREATE_TIME      = "創建日期";
+    $LANG_COMMON_TEXT_UPDATE_TIME      = "更新日期";
+    $LANG_COMMON_TEXT_CREATE_USER      = "建立人員";
+    $LANG_COMMON_TEXT_UPDATE_USER      = "更新人員";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
@@ -174,9 +180,6 @@
     $LANG_PROGRAM_MEMBER_COL_membe_gender     = "性別";
     $LANG_PROGRAM_MEMBER_COL_membe_email      = "電子信箱";
     $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
-    $LANG_PROGRAM_MEMBER_COL_create_time      = "創建日期";
-    $LANG_PROGRAM_MEMBER_COL_create_user      = "建立人員";
-    $LANG_PROGRAM_MEMBER_COL_update_user      = "更新人員";
 
 
 
