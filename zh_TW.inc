@@ -198,7 +198,7 @@
     $LANG_PROGRAM_PROGRAMS_TRANS_NO         = "否";
 
 
-    // 會員管理
+    // 會員管理 ( Member )
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
     $LANG_PROGRAM_MEMBER_COL_membe_account    = "會員帳號";
     $LANG_PROGRAM_MEMBER_COL_membe_name       = "名稱";
@@ -214,6 +214,12 @@
     $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
 
 
+    // 配套等級 (Grade)
+    $LANG_PROGRAM_GRADE_COL_grade_name        = "名稱";
+    $LANG_PROGRAM_GRADE_COL_grade_level       = "等級";
+    $LANG_PROGRAM_GRADE_COL_grade_pv          = "PV值";
+    $LANG_PROGRAM_GRADE_COL_grade_money       = "金額";
+    $LANG_PROGRAM_GRADE_COL_status            = "狀態";
 
 
 
