@@ -117,6 +117,7 @@
     $LANG_COMMON_TEXT_DATA_SHRINK      = "全收合";
     $LANG_COMMON_TEXT_BASIC_INFO       = "基本資訊";
     $LANG_COMMON_TEXT_CREATE_INFO      = "創建資訊";
+    $LANG_COMMON_TEXT_CREATE_OTHER     = "其他資訊";
     $LANG_COMMON_TEXT_CREATE_TIME      = "創建日期";
     $LANG_COMMON_TEXT_UPDATE_TIME      = "更新日期";
     $LANG_COMMON_TEXT_CREATE_USER      = "建立人員";
