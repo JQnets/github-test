@@ -213,6 +213,7 @@
     $LANG_PROGRAM_MEMBER_COL_membe_gender     = "性別";
     $LANG_PROGRAM_MEMBER_COL_membe_email      = "電子信箱";
     $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
+    $LANG_PROGRAM_MEMBER_COL_membe_memo       = "備註";
 
 
     // 配套等級 (Grade)
