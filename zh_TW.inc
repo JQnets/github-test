@@ -121,6 +121,8 @@
     $LANG_COMMON_TEXT_UPDATE_TIME      = "更新日期";
     $LANG_COMMON_TEXT_CREATE_USER      = "建立人員";
     $LANG_COMMON_TEXT_UPDATE_USER      = "更新人員";
+    $LANG_COMMON_TEXT_YES              = "是";
+    $LANG_COMMON_TEXT_NO               = "否";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
