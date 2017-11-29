@@ -127,6 +127,8 @@
     $LANG_COMMON_TEXT_NO               = "否";
     $LANG_COMMON_TEXT_PASS             = "通過";
     $LANG_COMMON_TEXT_PASS_FAIL        = "未通過";
+    $LANG_COMMON_TEXT_GENDER_MALE      = "先生";
+    $LANG_COMMON_TEXT_GENDER_FEMALE    = "小姐";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
