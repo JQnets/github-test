@@ -208,6 +208,20 @@
     $LANG_PROGRAM_PROGRAMS_SELECT_NOPARENT  = "無父節點";
 
 
+    // 網站管理者管理 ( Users )
+    $LANG_PROGRAM_ACCOUNT_COL_user_id         = "帳號";
+    $LANG_PROGRAM_ACCOUNT_COL_user_name       = "姓名";
+    $LANG_PROGRAM_ACCOUNT_COL_user_img        = "照片";
+    $LANG_PROGRAM_ACCOUNT_COL_user_role       = "角色";
+    $LANG_PROGRAM_ACCOUNT_COL_locked_time     = "被鎖時間";
+    $LANG_PROGRAM_ACCOUNT_COL_is_active       = "是否啟用";
+    $LANG_PROGRAM_ACCOUNT_COL_user_pw         = "密碼";
+    $LANG_PROGRAM_ACCOUNT_COL_user_email      = "信箱";
+    $LANG_PROGRAM_ACCOUNT_COL_login_error     = "登入錯誤次數";
+    $LANG_PROGRAM_ACCOUNT_COL_memo            = "備註";
+    $LANG_PROGRAM_ACCOUNT_COL_FILTER_ROLES    = "角色篩選(全)";
+    $LANG_PROGRAM_ACCOUNT_COL_FILTER_ACTIVITY = "是否啟用(全)";
+    $LANG_PROGRAM_ACCOUNT_COL_ACCOUNT_PROBLEM = "問題帳戶";
 
     // 會員管理 ( Member )
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
