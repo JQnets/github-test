@@ -129,6 +129,7 @@
     $LANG_COMMON_TEXT_PASS_FAIL        = "未通過";
     $LANG_COMMON_TEXT_GENDER_MALE      = "先生";
     $LANG_COMMON_TEXT_GENDER_FEMALE    = "小姐";
+    $LANG_COMMON_TEXT_PW_MODIFY        = "(不修改密碼請保持欄位空白)";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
@@ -248,7 +249,7 @@
 
     //toolkits的validator用,
     $GLOBALS["validator_lang"] = [
-        "LANG_REQUIRED" => "這個欄位是必填的11",
+        "LANG_REQUIRED" => "這個欄位是必填的",
         "LANG_REMOTE" => "請修正這個錯誤",
         "LANG_EMAIL" => "請輸入正確格式的電子信箱",
         "LANG_URL" => "請輸入正確的網址",
