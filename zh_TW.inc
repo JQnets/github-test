@@ -125,6 +125,8 @@
     $LANG_COMMON_TEXT_UPDATE_USER      = "更新人員";
     $LANG_COMMON_TEXT_YES              = "是";
     $LANG_COMMON_TEXT_NO               = "否";
+    $LANG_COMMON_TEXT_PASS             = "通過";
+    $LANG_COMMON_TEXT_PASS_FAIL        = "未通過";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
