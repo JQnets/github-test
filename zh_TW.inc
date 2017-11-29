@@ -130,6 +130,8 @@
     $LANG_COMMON_TEXT_GENDER_MALE      = "先生";
     $LANG_COMMON_TEXT_GENDER_FEMALE    = "小姐";
     $LANG_COMMON_TEXT_PW_MODIFY        = "(不修改密碼請保持欄位空白)";
+    $LANG_COMMON_TEXT_DEF_SELECT       = "請選擇";
+
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
@@ -202,6 +204,8 @@
     $LANG_PROGRAM_PROGRAMS_FILTER_LEVEL     = "階層篩選";
     $LANG_PROGRAM_PROGRAMS_TRANS_YES        = "是";
     $LANG_PROGRAM_PROGRAMS_TRANS_NO         = "否";
+    $LANG_PROGRAM_PROGRAMS_SELECT_NOPARENT  = "無父節點";
+
 
 
     // 會員管理 ( Member )
