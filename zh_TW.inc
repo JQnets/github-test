@@ -131,7 +131,8 @@
     $LANG_COMMON_TEXT_GENDER_FEMALE    = "小姐";
     $LANG_COMMON_TEXT_PW_MODIFY        = "(不修改密碼請保持欄位空白)";
     $LANG_COMMON_TEXT_DEF_SELECT       = "請選擇";
-
+    $LANG_COMMON_TEXT_NORMAL           = "正常";
+    $LANG_COMMON_TEXT_ABNORMAL         = "異常";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
@@ -233,6 +234,8 @@
     $LANG_PROGRAM_GRADE_COL_status            = "狀態";
 
 
+    // 財務管理: 帳戶列表 (member_acc)
+    $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
 
     /**
      * ----------------
