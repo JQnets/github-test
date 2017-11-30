@@ -264,6 +264,42 @@
     $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
 
 
+    // 登入頁輪播(Banner_index)
+    $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
+    $LANG_PROGRAM_BANNER_INDEX_COL_banin_img   = "圖片";
+    $LANG_PROGRAM_BANNER_INDEX_COL_status      = "啟用狀態";
+
+
+    // Dashboard頁輪播(Banner_dashboard)
+    $LANG_PROGRAM_BANNER_DASHBOARD_COL_banda_title = "名稱";
+    $LANG_PROGRAM_BANNER_DASHBOARD_COL_banda_img   = "圖片";
+    $LANG_PROGRAM_BANNER_DASHBOARD_COL_status      = "啟用狀態";
+
+
+    // 彈出式廣告(Banner_popup)
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_title = "名稱";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_img   = "圖片";
+    $LANG_PROGRAM_BANNER_POPUP_COL_status       = "啟用狀態";
+
+
+    // 系統公告
+    $LANG_PROGRAM_NOTICE_COL_notic_title  = "標題";
+    $LANG_PROGRAM_NOTICE_COL_notic_date   = "編輯時間";
+    $LANG_PROGRAM_NOTICE_COL_status       = "啟用狀態";
+
+
+    /**
+     * ----------------
+     *   modal用,宣告全域變數
+     * ----------------
+     */
+    //toolkits用
+    $GLOBALS['dm_lang'] = [
+        "LANG_FOOTER_SAVE"    => "儲存",
+        "LANG_FOOTER_CLOSE"   => "關閉",
+    ];
+
+
 
 
     /**
