@@ -283,10 +283,30 @@
     $LANG_PROGRAM_BANNER_POPUP_COL_status       = "啟用狀態";
 
 
-    // 系統公告
+    // 系統公告(Notice)
     $LANG_PROGRAM_NOTICE_COL_notic_title  = "標題";
     $LANG_PROGRAM_NOTICE_COL_notic_date   = "編輯時間";
+    $LANG_PROGRAM_NOTICE_COL_notic_detail = "內文";
     $LANG_PROGRAM_NOTICE_COL_status       = "啟用狀態";
+
+
+    // 商品分類(Product_category)
+    $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_proca_name  = "名稱";
+    $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_status      = "啟用狀態";
+    $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_order       = "排序";
+    $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_can_delete  = "是否能刪除";
+
+    // 商品(products)
+    $LANG_PROGRAM_PRODUCTS_COL_proca_id     = "類別";
+    $LANG_PROGRAM_PRODUCTS_COL_grade_id     = "配套等級";
+    $LANG_PROGRAM_PRODUCTS_COL_produ_name   = "名稱";
+    $LANG_PROGRAM_PRODUCTS_COL_produ_pv     = "pv值";
+    $LANG_PROGRAM_PRODUCTS_COL_produ_img    = "圖片";
+    $LANG_PROGRAM_PRODUCTS_COL_status       = "啟用狀態";
+    $LANG_PROGRAM_PRODUCTS_COL_order        = "排序";
+    $LANG_PROGRAM_PRODUCTS_COL_combination  = "組合產品";
+    $LANG_PROGRAM_PRODUCTS_COL_produ_detail = "描述";
+    $LANG_PROGRAM_PRODUCTS_COL_can_delete   = "是否能刪除";
 
 
     /**
