@@ -223,7 +223,7 @@
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ACTIVITY = "是否啟用(全)";
     $LANG_PROGRAM_ACCOUNT_COL_ACCOUNT_PROBLEM = "問題帳戶";
 
-    // 會員管理 ( Member )
+    // 會員管理: 會員列表 ( Member )
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
     $LANG_PROGRAM_MEMBER_COL_membe_account    = "會員帳號";
     $LANG_PROGRAM_MEMBER_COL_membe_name       = "名稱";
@@ -240,6 +240,18 @@
     $LANG_PROGRAM_MEMBER_COL_membe_memo       = "備註";
 
 
+    // 會員管理: 留言回覆 ( member_msg )
+    $LANG_PROGRAM_MEMBERMSG_COL_membe_id      = "會員帳號";
+    $LANG_PROGRAM_MEMBERMSG_COL_content       = "留言內容";
+    $LANG_PROGRAM_MEMBERMSG_COL_status        = "回覆狀態";
+    $LANG_PROGRAM_MEMBERMSG_COL_status_1      = "已回覆";
+    $LANG_PROGRAM_MEMBERMSG_COL_status_2      = "未回覆";
+    $LANG_PROGRAM_MEMBERMSG_COL_create_time   = "留言時間";
+    $LANG_PROGRAM_MEMBERMSG_COL_reply         = "回覆";
+    $LANG_PROGRAM_MEMBERMSG_COL_reply_content = "回覆內容";
+    $LANG_PROGRAM_MEMBERMSG_COL_reply_time    = "回覆時間";
+
+
     // 配套等級 (Grade)
     $LANG_PROGRAM_GRADE_COL_grade_name        = "名稱";
     $LANG_PROGRAM_GRADE_COL_grade_level       = "等級";
@@ -250,6 +262,9 @@
 
     // 財務管理: 帳戶列表 (member_acc)
     $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
+
+
+
 
     /**
      * ----------------
