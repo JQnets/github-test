@@ -133,6 +133,7 @@
     $LANG_COMMON_TEXT_DEF_SELECT       = "請選擇";
     $LANG_COMMON_TEXT_NORMAL           = "正常";
     $LANG_COMMON_TEXT_ABNORMAL         = "異常";
+    $LANG_COMMON_CURR_PHOTO            = "目前使用圖片";
 
     // roles
     $LANG_ROLES_OPER                   = "操作";
