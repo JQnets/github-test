@@ -203,8 +203,9 @@
     $LANG_PROGRAM_PROGRAMS_COL_is_remove    = "是否移除";
     $LANG_PROGRAM_PROGRAMS_COL_can_delete   = "是否可刪除";
     $LANG_PROGRAM_PROGRAMS_COL_memo         = "備註";
-    $LANG_PROGRAM_PROGRAMS_FILTER_PARENT    = "父節點篩選";
-    $LANG_PROGRAM_PROGRAMS_FILTER_LEVEL     = "階層篩選";
+    $LANG_PROGRAM_PROGRAMS_FILTER_TYPE      = "類型篩選(全)";
+    $LANG_PROGRAM_PROGRAMS_FILTER_PARENT    = "父節點篩選(全)";
+    $LANG_PROGRAM_PROGRAMS_FILTER_LEVEL     = "階層篩選(全)";
     $LANG_PROGRAM_PROGRAMS_TRANS_YES        = "是";
     $LANG_PROGRAM_PROGRAMS_TRANS_NO         = "否";
     $LANG_PROGRAM_PROGRAMS_SELECT_NOPARENT  = "無父節點";
