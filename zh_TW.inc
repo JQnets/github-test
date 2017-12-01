@@ -20,6 +20,7 @@
     // Session(COOKIE) & Login
     $LANG_SESSION_ACTIVE               = "<p>目前你的瀏覽器未開啟COOKIE，無法進入。</p> <br / > 請開啟COOKIE後在登入。</p>";
     $LANG_SESSION_AUTH_SUCCESS         = "登入成功！";
+    $LANG_SESSION_AUTH_SIGNOUT_SUCCESS = "登出成功！";
     $LANG_SESSION_AUTH_FAILURE         = "帳號或密碼輸入錯誤，請重新登入！";
     $LANG_SESSION_AUTH_LOCK            = "您的帳號已被鎖定，請於30分鐘後在重新登入！";
     $LANG_SESSION_AUTH_RETRY           = "帳號或密碼輸入錯誤，請重新登入！可嘗試登入次數：";
