@@ -182,6 +182,7 @@
 
 
     // 程式管理 ( Programs )
+    $LANG_PROGRAM_PROGRAMS_COL_pg_type      = "類型";
     $LANG_PROGRAM_PROGRAMS_COL_pg_code      = "代碼";
     $LANG_PROGRAM_PROGRAMS_COL_pg_name      = "名稱";
     $LANG_PROGRAM_PROGRAMS_COL_pg_level     = "階層";
