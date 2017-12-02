@@ -225,6 +225,7 @@
     $LANG_PROGRAM_ACCOUNT_COL_user_email      = "信箱";
     $LANG_PROGRAM_ACCOUNT_COL_login_error     = "登入錯誤次數";
     $LANG_PROGRAM_ACCOUNT_COL_memo            = "備註";
+    $LANG_PROGRAM_ACCOUNT_OPERO_ACTIVE        = "啟用管理";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ROLES    = "角色篩選(全)";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ACTIVITY = "是否啟用(全)";
     $LANG_PROGRAM_ACCOUNT_COL_ACCOUNT_PROBLEM = "問題帳戶";
