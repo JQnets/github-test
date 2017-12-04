@@ -56,6 +56,13 @@
     $LANG_USER_BONUS_FUND              = "康養積分";
     $LANG_USER_JOIN_TEXT               = "加入";
 
+    $LANG_USER_EMAIL                   = "電子信箱";
+    $LANG_USER_BACKTO_SIGNIN           = "返回登入頁";
+    $LANG_USER_BACKTO_FORGETPWD        = "返回忘記密碼頁";
+    $LANG_USER_EMAIL_NOACC_MSG         = "電子信箱不存在, 請聯絡客服人員。";
+    $LANG_USER_EMAIL_RESET_MSG         = "</p>您的 <b class='text-blue'> %s  ( %s )</b> 忘記密碼驗證信件已成功送出。</p>請您撥空檢視您的電子信箱，並點選 <b class='text-red'>[重置密碼]</b> 連結，並在時效內完成密碼重置動作，如此才可保障您能隨時存取您的帳戶。";
+
+
     // 系統
     $LANG_SYSTEM_BONUS_STORED          = "儲值";
     $LANG_SYSTEM_BONUS_TRANSFER        = "互轉";
@@ -94,6 +101,7 @@
     $LANG_COMMON_TEXT_LOADING          = "資料讀取中... 請稍候! <br/>Loading...";
     $LANG_COMMON_TEXT_MAINTAIN         = "資料維護";
     $LANG_COMMON_TEXT_OPER             = "操作";
+    $LANG_COMMON_TEXT_OPER_INFO        = "操作訊息";
     $LANG_COMMON_TEXT_VIEW             = "檢視";
     $LANG_COMMON_TEXT_ADD              = "新增";
     $LANG_COMMON_TEXT_EDIT             = "編輯";
@@ -110,6 +118,7 @@
     $LANG_COMMON_TEXT_CANCEL           = "取消";
     $LANG_COMMON_TEXT_ACTIVE           = "啟用";
     $LANG_COMMON_TEXT_CLOSE            = "關閉";
+    $LANG_COMMON_TEXT_SEND            = "送出";
     $LANG_COMMON_TEXT_OK               = "確定";
     $LANG_COMMON_TEXT_PAGE             = "第 <b> %s </b> - <b> %s </b> 列 (共有 <b> %s </b> 列)";
     $LANG_COMMON_TEXT_PAGE_LENGTHMENU  = "顯示 %s 筆記錄";
