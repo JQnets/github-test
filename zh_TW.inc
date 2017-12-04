@@ -59,7 +59,7 @@
     $LANG_USER_EMAIL                   = "電子信箱";
     $LANG_USER_BACKTO_SIGNIN           = "返回登入頁";
     $LANG_USER_BACKTO_FORGETPWD        = "返回忘記密碼頁";
-    $LANG_USER_EMAIL_NOACC_MSG         = "電子信箱不存在, 請聯絡客服人員。";
+    $LANG_USER_EMAIL_NOACC_MSG         = "您的 <b class='text-blue'> %s  ( %s )</b> 電子信箱不存在, 請聯絡客服人員。";
     $LANG_USER_EMAIL_RESET_MSG         = "</p>您的 <b class='text-blue'> %s  ( %s )</b> 忘記密碼驗證信件已成功送出。</p>請您撥空檢視您的電子信箱，並點選 <b class='text-red'>[重置密碼]</b> 連結，並在時效內完成密碼重置動作，如此才可保障您能隨時存取您的帳戶。";
 
 
