@@ -242,6 +242,14 @@
     $LANG_PROGRAM_ACCOUNT_COL_REPEAT_CHECK    = "此帳號已經存在，請輸入其他帳號名稱";
     $LANG_PROGRAM_ACCOUNT_COL_QTIP_ID         = "1. 您之後登入此後台的帳號ID <br />( <span style='color:#F00;'>此欄位設定之後，將不可變更</span> ) <br />2. 帳號不可以輸入空白和特殊符號";
 
+    // 使用者角色管理 ( UserRole )
+    $LANG_PROGRAM_ROLES_COL_ur_id     = "角色ID";
+    $LANG_PROGRAM_ROLES_COL_ur_name   = "角色名稱";
+    $LANG_PROGRAM_ROLES_COL_ur_orders = "排序";
+    $LANG_PROGRAM_ROLES_COL_is_active = "啟用";
+    $LANG_PROGRAM_ROLES_COL_ur_descr  = "描述";
+    $LANG_PROGRAM_ROLES_COL_ur_img    = "角色圖示";
+    $LANG_PROGRAM_ROLES_COL_memo      = "備註";
 
     // 會員管理: 會員列表 ( Member )
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
