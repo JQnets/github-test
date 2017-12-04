@@ -331,6 +331,13 @@
     $LANG_PROGRAM_PRODUCTS_COL_can_delete   = "是否能刪除";
 
 
+
+    // 前台系統公告 (notice)
+    $LANG_PROGRAM_WEBNOTICE_COL_notic_title = "主題";
+    $LANG_PROGRAM_WEBNOTICE_COL_create_time = "發佈日期";
+    $LANG_PROGRAM_WEBNOTICE_COL_notic_detail = "內文";
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
