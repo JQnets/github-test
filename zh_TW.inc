@@ -68,6 +68,7 @@
     $LANG_USER_EMAIL_RESET_ERROR       = "無效連結，請重新操作。";
     $LANG_USER_EMAIL_RESET_ERROR_TIMEOUT = "無效連結或操作逾時，請重新操作。";
     $LANG_USER_EMAIL_RESET_SUCCESS     = "密碼重置成功，請以新的密碼登入系統。";
+    $LANG_USER_REPASSWORD2_AUTH_FAILURE= "二級密碼輸入錯誤，請重新輸入！";
 
 
     // 系統
@@ -125,7 +126,7 @@
     $LANG_COMMON_TEXT_CANCEL           = "取消";
     $LANG_COMMON_TEXT_ACTIVE           = "啟用";
     $LANG_COMMON_TEXT_CLOSE            = "關閉";
-    $LANG_COMMON_TEXT_SEND            = "送出";
+    $LANG_COMMON_TEXT_SEND             = "送出";
     $LANG_COMMON_TEXT_OK               = "確定";
     $LANG_COMMON_TEXT_PAGE             = "第 <b> %s </b> - <b> %s </b> 列 (共有 <b> %s </b> 列)";
     $LANG_COMMON_TEXT_PAGE_LENGTHMENU  = "顯示 %s 筆記錄";
