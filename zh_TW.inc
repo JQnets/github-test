@@ -362,6 +362,14 @@
     $LANG_PROGRAM_PERSONAL_WEB_COL_create_time = "註冊時間";
     $LANG_PROGRAM_PERSONAL_WEB_COL_member_text = "會員資訊";
 
+
+    // 前台密碼修改
+    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改會員密碼";
+    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改會員二級密碼";
+    $LANG_PROGRAM_PASSWORD_WEB_COL_incorrect_text  = "密碼不正確";
+
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
