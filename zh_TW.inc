@@ -55,12 +55,19 @@
     $LANG_USER_BONUS_BALANCE           = "財富金";
     $LANG_USER_BONUS_FUND              = "康養積分";
     $LANG_USER_JOIN_TEXT               = "加入";
-
     $LANG_USER_EMAIL                   = "電子信箱";
     $LANG_USER_BACKTO_SIGNIN           = "返回登入頁";
     $LANG_USER_BACKTO_FORGETPWD        = "返回忘記密碼頁";
     $LANG_USER_EMAIL_NOACC_MSG         = "您的 <b class='text-blue'> %s  ( %s )</b> 電子信箱不存在, 請聯絡客服人員。";
-    $LANG_USER_EMAIL_RESET_MSG         = "</p>您的 <b class='text-blue'> %s  ( %s )</b> 忘記密碼驗證信件已成功送出。</p>請您撥空檢視您的電子信箱，並點選 <b class='text-red'>[重置密碼]</b> 連結，並在時效內完成密碼重置動作，如此才可保障您能隨時存取您的帳戶。";
+    $LANG_USER_EMAIL_RESET_MSG         = "</p>您的 <b class='text-blue'> %s  ( %s )</b> 忘記密碼驗證信件已成功送出。</p>請您撥空檢視您的電子信箱，點選 <b class='text-red'>[重置密碼]</b> 連結，並於時效內完成密碼重置動作，如此才可保障您能隨時存取您的帳戶。";
+    $LANG_USER_NEW_PASSWORD            = "新密碼";
+    $LANG_USER_EMAIL_RESET_TITLE       = "密碼重置";
+    $LANG_USER_EMAIL_RESET_SUBJECT     = "[ %s ] 密碼重置郵件";
+    $LANG_USER_EMAIL_RESET_CONTENT     = "<p>您好， %s </p><p>您申請了重設密碼，請點選下方 [重置密碼] 連結，並於30分鐘內完成密碼重置動作，如此才可保障您能隨時存取您的帳戶。</p><p><a href=' %s '>重置密碼</a></p>";
+    $LANG_USER_EMAIL_RESET_FAILURE_MSG = "<p>信件寄送失敗，請聯絡客服人員!</p>Mailer Error: ";
+    $LANG_USER_EMAIL_RESET_ERROR       = "無效連結，請重新操作。";
+    $LANG_USER_EMAIL_RESET_ERROR_TIMEOUT = "無效連結或操作逾時，請重新操作。";
+    $LANG_USER_EMAIL_RESET_SUCCESS     = "密碼重置成功，請以新的密碼登入系統。";
 
 
     // 系統
