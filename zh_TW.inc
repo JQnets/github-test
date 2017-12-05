@@ -352,12 +352,15 @@
     $LANG_PROGRAM_WEBNOTICE_COL_notic_detail = "內文";
 
 
-    // 前台聯級客服
+    // 前台聯絡客服
     $LANG_PROGRAM_WEBMESSAGES_COL_content       = "留言信息";
     $LANG_PROGRAM_WEBMESSAGES_COL_create_time   = "創建日期";
     $LANG_PROGRAM_WEBMESSAGES_COL_status        = "回覆狀態";
     $LANG_PROGRAM_WEBMESSAGES_COL_reply_content = "回覆信息";
 
+    // 前台基本資料
+    $LANG_PROGRAM_PERSONAL_WEB_COL_create_time = "註冊時間";
+    $LANG_PROGRAM_PERSONAL_WEB_COL_member_text = "會員資訊";
 
     /**
      * ----------------
