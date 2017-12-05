@@ -346,10 +346,10 @@
 
 
     // 前台聯級客服
-    $LANG_PROGRAM_WEBMESSAGES_COL_content     = "留言信息";
-    $LANG_PROGRAM_WEBMESSAGES_COL_create_time = "創建日期";
-    $LANG_PROGRAM_WEBMESSAGES_COL_status      = "回覆狀態";
-
+    $LANG_PROGRAM_WEBMESSAGES_COL_content       = "留言信息";
+    $LANG_PROGRAM_WEBMESSAGES_COL_create_time   = "創建日期";
+    $LANG_PROGRAM_WEBMESSAGES_COL_status        = "回覆狀態";
+    $LANG_PROGRAM_WEBMESSAGES_COL_reply_content = "回覆信息";
 
 
     /**
