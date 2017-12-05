@@ -333,6 +333,7 @@
     $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_order       = "排序";
     $LANG_PROGRAM_PRODUCTS_CATEGORY_COL_can_delete  = "是否能刪除";
 
+
     // 商品(products)
     $LANG_PROGRAM_PRODUCTS_COL_proca_id     = "類別";
     $LANG_PROGRAM_PRODUCTS_COL_grade_id     = "配套等級";
@@ -358,6 +359,7 @@
     $LANG_PROGRAM_WEBMESSAGES_COL_status        = "回覆狀態";
     $LANG_PROGRAM_WEBMESSAGES_COL_reply_content = "回覆信息";
 
+
     // 前台基本資料
     $LANG_PROGRAM_PERSONAL_WEB_COL_create_time = "註冊時間";
     $LANG_PROGRAM_PERSONAL_WEB_COL_member_text = "會員資訊";
@@ -368,6 +370,12 @@
     $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改會員二級密碼";
     $LANG_PROGRAM_PASSWORD_WEB_COL_incorrect_text  = "密碼不正確";
 
+
+    // 前台銀行戶管理
+    $LANG_PROGRAM_WEBBANK_COL_memba_name = "銀行名稱";
+    $LANG_PROGRAM_WEBBANK_COL_memba_branch = "分行名";
+    $LANG_PROGRAM_WEBBANK_COL_memba_account = "銀行卡號";
+    $LANG_PROGRAM_WEBBANK_COL_memba_account_name = "帳戶名";
 
 
     /**
