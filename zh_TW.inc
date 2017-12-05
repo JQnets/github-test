@@ -378,6 +378,18 @@
     $LANG_PROGRAM_WEBBANK_COL_memba_account_name = "帳戶名";
 
 
+    // 前台收貨地址管理
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_ship_name = "收貨人";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_phone     = "手機";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_tel       = "市話";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_country   = "國家";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_province  = "省份";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_city      = "縣市";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_town      = "市鄉區鎮";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_address   = "地址";
+    $LANG_PROGRAM_WEBADDRESS_COL_memad_zip       = "郵遞區號";
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
