@@ -391,6 +391,38 @@
     $LANG_PROGRAM_WEBADDRESS_COL_memad_zip       = "郵遞區號";
 
 
+    // 訂單管理
+    $LANG_PROGRAM_ORDERS_COL_order_sn                = "訂單編號";
+    $LANG_PROGRAM_ORDERS_COL_order_invoice           = "發票編號";
+    $LANG_PROGRAM_ORDERS_COL_order_subscriber        = "訂購者";
+    $LANG_PROGRAM_ORDERS_COL_order_account           = "新註冊的會員帳號";
+    $LANG_PROGRAM_ORDERS_COL_order_fnode_account     = "安置人";
+    $LANG_PROGRAM_ORDERS_COL_order_recommend_account = "推薦人";
+    $LANG_PROGRAM_ORDERS_COL_order_area              = "位置";
+    $LANG_PROGRAM_ORDERS_COL_order_price             = "價格";
+    $LANG_PROGRAM_ORDERS_COL_order_pv                = "pv值";
+    $LANG_PROGRAM_ORDERS_COL_order_consignee         = "收貨人名稱";
+    $LANG_PROGRAM_ORDERS_COL_order_phone             = "用户手機";
+    $LANG_PROGRAM_ORDERS_COL_order_country           = "國家";
+    $LANG_PROGRAM_ORDERS_COL_order_province          = "省份";
+    $LANG_PROGRAM_ORDERS_COL_order_city              = "縣市代碼";
+    $LANG_PROGRAM_ORDERS_COL_order_town              = "市鄉區鎮代碼";
+    $LANG_PROGRAM_ORDERS_COL_order_address           = "地址";
+    $LANG_PROGRAM_ORDERS_COL_order_zip               = "郵遞區號";
+    $LANG_PROGRAM_ORDERS_COL_order_status            = "付款狀態";
+    $LANG_PROGRAM_ORDERS_COL_order_type              = "訂單類型";
+    $LANG_PROGRAM_ORDERS_COL_make_type               = "操作類型";
+    $LANG_PROGRAM_ORDERS_COL_pay_time                = "付款時間";
+    $LANG_PROGRAM_ORDERS_COL_send_time               = "發貨時間";
+    $LANG_PROGRAM_ORDERS_COL_finish_time             = "完成时间";
+    $LANG_PROGRAM_ORDERS_COL_is_cum                  = "是否计算奖金";
+    $LANG_PROGRAM_ORDERS_COL_reg_num                 = "註冊人數";
+    $LANG_PROGRAM_ORDERS_COL_ship_status             = "發貨狀態";
+    $LANG_PROGRAM_ORDERS_COL_create_time             = "下單時間";
+
+
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
