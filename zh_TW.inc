@@ -419,7 +419,20 @@
     $LANG_PROGRAM_ORDERS_COL_reg_num                 = "註冊人數";
     $LANG_PROGRAM_ORDERS_COL_ship_status             = "發貨狀態";
     $LANG_PROGRAM_ORDERS_COL_create_time             = "下單時間";
-
+    $LANG_PROGRAM_ORDERS_COL_order_pay_type          = "付款方式";
+    $LANG_PROGRAM_ORDERS_COL_shiper_block            = "收貨人資料";
+    $LANG_PROGRAM_ORDERS_COL_order_area_left         = "左區";
+    $LANG_PROGRAM_ORDERS_COL_order_area_right        = "右區";
+    $LANG_PROGRAM_ORDERS_COL_order_status_is_pay     = "已付款";
+    $LANG_PROGRAM_ORDERS_COL_order_status_no_pay     = "未付款";
+    $LANG_PROGRAM_ORDERS_COL_order_type_1            = "註冊";
+    $LANG_PROGRAM_ORDERS_COL_order_type_2            = "升級";
+    $LANG_PROGRAM_ORDERS_COL_order_pay_type_1        = "財富金";
+    $LANG_PROGRAM_ORDERS_COL_order_pay_type_2        = "現金";
+    $LANG_PROGRAM_ORDERS_COL_order_pay_type_3        = "信用卡轉帳";
+    $LANG_PROGRAM_ORDERS_COL_ship_status_1           = "未發貨";
+    $LANG_PROGRAM_ORDERS_COL_ship_status_2           = "已發貨";
+    $LANG_PROGRAM_ORDERS_COL_ship_status_3           = "已完成";
 
 
 
