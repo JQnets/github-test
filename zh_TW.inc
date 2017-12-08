@@ -437,6 +437,7 @@
     //業務管理
     $LANG_PROGRAM_NODETREE_COL_QUERY_MSG            = "請輸入會員帳號";
     $LANG_PROGRAM_NODETREE_COL_QUERY_BTN            = "接點查詢";
+    $LANG_PROGRAM_NODETREE_COL_QUERY_SELF_BTN       = "返回自身結點";
     $LANG_PROGRAM_NODETREE_COL_POSITION_NOW         = "當前位置";
     $LANG_PROGRAM_NODETREE_COL_TABLE_TH_SUM         = "組織";
     $LANG_PROGRAM_NODETREE_COL_TABLE_TH_LAYER       = "未層碰";
