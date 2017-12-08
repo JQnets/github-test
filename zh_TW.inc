@@ -434,7 +434,17 @@
     $LANG_PROGRAM_ORDERS_COL_ship_status_2           = "已發貨";
     $LANG_PROGRAM_ORDERS_COL_ship_status_3           = "已完成";
 
-
+    //業務管理
+    $LANG_PROGRAM_NODETREE_COL_QUERY_MSG            = "請輸入會員帳號";
+    $LANG_PROGRAM_NODETREE_COL_QUERY_BTN            = "接點查詢";
+    $LANG_PROGRAM_NODETREE_COL_POSITION_NOW         = "當前位置";
+    $LANG_PROGRAM_NODETREE_COL_TABLE_TH_SUM         = "組織";
+    $LANG_PROGRAM_NODETREE_COL_TABLE_TH_LAYER       = "未層碰";
+    $LANG_PROGRAM_NODETREE_COL_TABLE_TH_PAIR        = "未對碰";
+    $LANG_PROGRAM_NODETREE_COL_TRANSFER_FORTUNE_BTN = "轉帳";
+    $LANG_PROGRAM_NODETREE_COL_NODE_NOT_EXIST       = "接點不存在，請重新查詢！";
+    $LANG_PROGRAM_NODETREE_COL_NODE_UNSIGNUP        = "未註冊";
+    $LANG_PROGRAM_NODETREE_COL_NODE_SIGNUP_BTN      = "註冊";
 
     /**
      * ----------------
