@@ -25,8 +25,9 @@
     $LANG_SESSION_AUTH_FAILURE         = "帳號或密碼輸入錯誤，請重新登入！";
     $LANG_SESSION_AUTH_ACTIVE_STOP     = "您的帳號已經被停用！<br/>若有相關問題，請連絡系統管理員";
     $LANG_SESSION_AUTH_ACTIVE_PROBLEM  = "您的帳號已經列為問題帳戶！<br/>若有相關問題，請連絡系統管理員";
-    $LANG_SESSION_AUTH_ACTIVE_DELETE   = "您的帳號已被刪除！<br/>若有相關問題，請連絡系統管理員";
-    $LANG_SESSION_AUTH_LOCK            = "您的帳號已被鎖定，<br/>請於 %s 分鐘後在重新登入！！";
+    $LANG_SESSION_AUTH_ACTIVE_DELETE   = "您的帳號已經被刪除！<br/>若有相關問題，請連絡系統管理員";
+    $LANG_SESSION_AUTH_LOCK            = "您的帳號已經被鎖定，<br/>請於 %s 分鐘後在重新登入！！";
+    $LANG_SESSION_AUTH_LOCK_FOREVER    = "您的帳號已經被鎖定！<br/>若有相關問題，請連絡系統管理員";
     $LANG_SESSION_AUTH_RETRY           = "帳號或密碼輸入錯誤，請重新登入！<br />可嘗試登入次數：";
     $LANG_SESSION_AUTH_RETRY_LOCK      = "登入錯誤次數超過 %s 次，已被鎖定此帳號，請於 %s 分鐘後在重新登入！";
     $LANG_SESSION_AUTH_VALIDATE_FAILURE= "驗證碼認證錯誤！";
