@@ -248,7 +248,7 @@
     $LANG_PROGRAM_ACCOUNT_Multi_ACTIVE        = "多筆啟用管理";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ROLES    = "角色篩選(全)";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ACTIVITY = "是否啟用(全)";
-    $LANG_PROGRAM_ACCOUNT_COL_FILTER_LOCKED   = "是否帳戶被鎖定(全)";
+    $LANG_PROGRAM_ACCOUNT_COL_FILTER_LOCKED   = "帳戶鎖定(全)";
     $LANG_PROGRAM_ACCOUNT_COL_ACCOUNT_PROBLEM = "問題帳戶";
     $LANG_PROGRAM_ACCOUNT_COL_REPEAT_CHECK    = "此帳號已經存在，請輸入其他帳號名稱";
     $LANG_PROGRAM_ACCOUNT_COL_QTIP_ID         = "1. 您之後登入此後台的帳號ID <br />( <span style='color:#F00;'>此欄位設定之後，將不可變更</span> ) <br />2. 帳號不可以輸入空白和特殊符號";
