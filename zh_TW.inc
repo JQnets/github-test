@@ -143,6 +143,7 @@
     $LANG_COMMON_TEXT_UPDATE_USER      = "更新人員";
     $LANG_COMMON_TEXT_YES              = "是";
     $LANG_COMMON_TEXT_NO               = "否";
+    $LANG_COMMON_TEXT_LOCK             = "鎖定";
     $LANG_COMMON_TEXT_PASS             = "通過";
     $LANG_COMMON_TEXT_PASS_FAIL        = "未通過";
     $LANG_COMMON_TEXT_GENDER_MALE      = "先生";
@@ -242,10 +243,12 @@
     $LANG_PROGRAM_ACCOUNT_COL_user_email      = "信箱";
     $LANG_PROGRAM_ACCOUNT_COL_login_error     = "登入錯誤次數";
     $LANG_PROGRAM_ACCOUNT_COL_memo            = "備註";
+    $LANG_PROGRAM_ACCOUNT_COL_LOCK            = "帳號被鎖";
     $LANG_PROGRAM_ACCOUNT_OPERO_ACTIVE        = "啟用管理";
     $LANG_PROGRAM_ACCOUNT_Multi_ACTIVE        = "多筆啟用管理";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ROLES    = "角色篩選(全)";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ACTIVITY = "是否啟用(全)";
+    $LANG_PROGRAM_ACCOUNT_COL_FILTER_LOCKED   = "是否帳戶被鎖定(全)";
     $LANG_PROGRAM_ACCOUNT_COL_ACCOUNT_PROBLEM = "問題帳戶";
     $LANG_PROGRAM_ACCOUNT_COL_REPEAT_CHECK    = "此帳號已經存在，請輸入其他帳號名稱";
     $LANG_PROGRAM_ACCOUNT_COL_QTIP_ID         = "1. 您之後登入此後台的帳號ID <br />( <span style='color:#F00;'>此欄位設定之後，將不可變更</span> ) <br />2. 帳號不可以輸入空白和特殊符號";
