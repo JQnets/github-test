@@ -192,6 +192,10 @@
     $LANG_WEBCONFIG_WEB_SHRINKTITLE_P  = "圖片";
     $LANG_WEBCONFIG_WEB_MEMO           = "備註";
     $LANG_WEBCONFIG_LOGIN_TIMES        = "網站最高可嘗試登錄次數";
+    $LANG_WEBCONFIG_AUTO_DELOCK_MIN    = "鎖定自動解鎖時間(分)";
+    $LANG_WEBCONFIG_AUTO_QTIP_TITLE    = "設定說明";
+    $LANG_WEBCONFIG_AUTO_QTIP_BODY     = "<span class='text-red'><b>[ >0 ]</b></span>：設定幾分鐘後系統自動解鎖 <br/><span class='text-red'><b>[ -1 ]</b></span>：無限鎖定 (只能由管理者解鎖) <br/><span class='text-red'><b>[ 0 ]</b></span>: 不鎖定";
+
     $LANG_WEBCONFIG_SEO_NAME           = "SEO網站名稱";
     $LANG_WEBCONFIG_SEO_KEYWORD        = "SEO網站關鍵字";
     $LANG_WEBCONFIG_SEO_DESCR          = "SEO網站描述";
