@@ -159,6 +159,18 @@
     $LANG_COMMON_TEXT_ABNORMAL         = "異常";
     $LANG_COMMON_CURR_PHOTO            = "目前使用圖片";
 
+    // 授權 (Auth)
+    $LANG_AUTH_LOGIN_TIMEOUT           = "登入資訊逾時,請重新登入";
+    $LANG_AUTH_PROGRAM_UNAUTH          = "你沒有使用此程式的權限！";
+    $LANG_AUTH_PROGRAM_UNACTIVE        = "此程序已經被系統關閉！請勿非法進入";
+    $LANG_AUTH_PROGRAM_UNAUTH_LIST     = "你沒有使用'列表'的權限";
+    $LANG_AUTH_PROGRAM_UNAUTH_VIEW     = "你沒有使用'檢視'的權限";
+    $LANG_AUTH_PROGRAM_UNAUTH_ADD      = "你沒有使用'新增'的權限";
+    $LANG_AUTH_PROGRAM_UNAUTH_EDIT     = "你沒有使用'修改'的權限";
+    $LANG_AUTH_PROGRAM_UNAUTH_DEL      = "你沒有使用'刪除'的權限";
+    $LANG_AUTH_PROGRAM_UNAUTH_REPORT   = "你沒有使用'報表'的權限";
+
+
     // roles
     $LANG_ROLES_OPER                   = "操作";
     $LANG_ROLES_HASHTAG                = "#";
@@ -195,7 +207,6 @@
     $LANG_WEBCONFIG_AUTO_DELOCK_MIN    = "鎖定自動解鎖時間(分)";
     $LANG_WEBCONFIG_AUTO_QTIP_TITLE    = "設定說明";
     $LANG_WEBCONFIG_AUTO_QTIP_BODY     = "<span class='text-red'><b>[ >0 ]</b></span>：設定幾分鐘後系統自動解鎖 <br/><span class='text-red'><b>[ -1 ]</b></span>：無限鎖定 (只能由管理者解鎖) <br/><span class='text-red'><b>[ 0 ]</b></span>: 不鎖定";
-
     $LANG_WEBCONFIG_SEO_NAME           = "SEO網站名稱";
     $LANG_WEBCONFIG_SEO_KEYWORD        = "SEO網站關鍵字";
     $LANG_WEBCONFIG_SEO_DESCR          = "SEO網站描述";
