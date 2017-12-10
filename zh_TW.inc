@@ -264,6 +264,8 @@
     $LANG_PROGRAM_ACCOUNT_COL_login_error     = "登入錯誤次數";
     $LANG_PROGRAM_ACCOUNT_COL_memo            = "備註";
     $LANG_PROGRAM_ACCOUNT_COL_LOCK            = "帳號被鎖";
+    $LANG_PROGRAM_ACCOUNT_USER_AUTH           = "使用者授權";
+    $LANG_PROGRAM_ACCOUNT_ROLE_AUTH           = "管理者授權";
     $LANG_PROGRAM_ACCOUNT_OPERO_ACTIVE        = "啟用管理";
     $LANG_PROGRAM_ACCOUNT_Multi_ACTIVE        = "多筆啟用管理";
     $LANG_PROGRAM_ACCOUNT_COL_FILTER_ROLES    = "角色篩選(全)";
