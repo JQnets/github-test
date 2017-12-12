@@ -471,6 +471,8 @@
     $LANG_PROGRAM_NODETREE_COL_NODE_NOT_EXIST       = "接點不存在，請重新查詢！";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNSIGNUP        = "未註冊";
     $LANG_PROGRAM_NODETREE_COL_NODE_SIGNUP_BTN      = "註冊";
+    $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
+    $LANG_PROGRAM_NODETREE_COL_NODE_UNACTIVE        = "未啟用";
 
     /**
      * ----------------
