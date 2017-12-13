@@ -496,6 +496,25 @@
     $LANG_PROGRAM_FM_RECHARGE_COL_btnStatus        = "批量審核";
     $LANG_PROGRAM_FM_RECHARGE_COL_single_btnStatus = "單筆審核";
 
+    // 資金流水列表
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_membe_id        = "會員帳戶";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account   = "帳戶";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_pv        = "PV值";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_detail    = "描述";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type      = "操作類型";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_create_time     = "建立日期";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_1 = "總獎金";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_2 = "財富金";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_3 = "康養積分";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_1    = "充值";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_2    = "提現";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_3    = "轉出";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_4    = "轉入";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_5    = "註冊扣款";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_6    = "退款";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_7    = "轉財富金";
+
+
 
     /**
      * ----------------
