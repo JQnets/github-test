@@ -79,6 +79,7 @@
     // 系統
     $LANG_SYSTEM_BONUS_STORED          = "儲值";
     $LANG_SYSTEM_BONUS_TRANSFER        = "互轉";
+    $LANG_SYSTEM_CAPITAL_TO_BALANCE    = "轉入財富金";
     $LANG_SYSTEM_READ_MORE             = "查看更多";
     $LANG_SYSTEM_NEWS                  = "公告";
     $LANG_SYSTEM_NEWS_TIME             = "發佈時間";
