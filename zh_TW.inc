@@ -297,8 +297,8 @@
     $LANG_PROGRAM_MEMBER_COL_status           = "帳戶狀態";
     $LANG_PROGRAM_MEMBER_COL_status_1         = "未啟用";
     $LANG_PROGRAM_MEMBER_COL_status_2         = "啟用";
-    $LANG_PROGRAM_MEMBER_COL_status_3         = "凍結";
-    $LANG_PROGRAM_MEMBER_COL_status_4         = "退出";
+    $LANG_PROGRAM_MEMBER_COL_status_3         = "凍結帳戶";
+    $LANG_PROGRAM_MEMBER_COL_status_4         = "無效帳戶";
     $LANG_PROGRAM_MEMBER_COL_update_time      = "更新日期";
     $LANG_PROGRAM_MEMBER_COL_membe_first_pwd  = "會員密碼";
     $LANG_PROGRAM_MEMBER_COL_membe_second_pwd = "二級密碼";
