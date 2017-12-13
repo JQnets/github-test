@@ -479,6 +479,23 @@
     $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNACTIVE        = "未啟用";
 
+
+    // 充值管理
+    $LANG_PROGRAM_FM_RECHARGE_COL_membe_acc        = "會員帳戶";
+    $LANG_PROGRAM_FM_RECHARGE_COL_membe_name       = "名稱";
+    $LANG_PROGRAM_FM_RECHARGE_COL_recha_money      = "現金";
+    $LANG_PROGRAM_FM_RECHARGE_COL_recha_memo       = "描述";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type             = "類型";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status           = "狀態";
+    $LANG_PROGRAM_FM_RECHARGE_COL_create_time      = "申請日期";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status_1         = "已審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status_2         = "未審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_1           = "手動";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_2           = "轉帳";
+    $LANG_PROGRAM_FM_RECHARGE_COL_btnStatus        = "批量審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_single_btnStatus = "單筆審核";
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
