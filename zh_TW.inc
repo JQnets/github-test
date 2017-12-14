@@ -333,6 +333,18 @@
     // 財務管理: 帳戶列表 (member_acc)
     $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
 
+    // 財務管理: 獎金轉入財富金 (account_transfer)
+    $LANG_PROGRAM_WEBACCOUNT_PAGE_HEADER                    = "獎金轉入財富金";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_ACCOUNT                   = "會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CAPITAL                   = "獎金餘額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY             = "轉入財富金金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY_PLACEHOLDER = "請輸入您要轉入的金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM                   = "確定將獎金轉入財富金?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT            = "輸入金額不得大於獎金餘額！";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS          = "轉入成功！";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                    = "[ %s ] 密碼重置郵件";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉出 %s";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s >> %s 轉入財富金 %s";
 
     // 登入頁輪播(Banner_index)
     $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
