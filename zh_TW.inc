@@ -343,8 +343,8 @@
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT            = "輸入金額不得大於獎金餘額！";
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS          = "轉入成功！";
     $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                    = "[ %s ] 密碼重置郵件";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉出 %s";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s >> %s 轉入財富金 %s";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉出";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s 轉入 %s";
 
     // 登入頁輪播(Banner_index)
     $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
