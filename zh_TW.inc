@@ -335,7 +335,7 @@
     // 財務管理: 帳戶列表 (member_acc)
     $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
 
-    // 財務管理: 獎金轉入財富金 (account_transfer)
+    // 財務管理: (account/account_transfer/accountlog/account_handle/account_withdrawal/account_recharge)
     $LANG_PROGRAM_WEBACCOUNT_PAGE_HEADER                    = "獎金轉入財富金";
     $LANG_PROGRAM_WEBACCOUNT_FORM_ACCOUNT                   = "會員帳號";
     $LANG_PROGRAM_WEBACCOUNT_FORM_CAPITAL                   = "獎金餘額";
