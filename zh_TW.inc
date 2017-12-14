@@ -339,13 +339,21 @@
     $LANG_PROGRAM_WEBACCOUNT_PAGE_HEADER                    = "獎金轉入財富金";
     $LANG_PROGRAM_WEBACCOUNT_FORM_ACCOUNT                   = "會員帳號";
     $LANG_PROGRAM_WEBACCOUNT_FORM_CAPITAL                   = "獎金餘額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_BALANCE                   = "財富金餘額";
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY             = "轉入財富金金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC               = "轉入會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO          = "轉入會員帳號訊息";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO_MSG      = "請輸入正確的會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_PLACEHOLDER   = "請輸入您要轉入的會員帳號";
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY_PLACEHOLDER = "請輸入您要轉入的金額";
     $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM                   = "確定將獎金轉入財富金?";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT            = "輸入金額不得大於獎金餘額！";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM2                  = "確定將財富金轉入 %s ?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT            = "輸入金額不得大於原始餘額！";
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS          = "轉入成功！";
     $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                    = "[ %s ] 密碼重置郵件";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_MYSELF_ERROR          = "不能轉帳給自己！";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉出";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2            = "轉帳至 %s";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s 轉入 %s";
 
     // 登入頁輪播(Banner_index)
