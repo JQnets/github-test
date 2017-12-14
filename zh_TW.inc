@@ -352,8 +352,8 @@
     $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS          = "轉入成功！";
     $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                    = "[ %s ] 密碼重置郵件";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_MYSELF_ERROR          = "不能轉帳給自己！";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉出";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2            = "轉帳至 %s";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉入財富金";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2            = "%s 轉帳至 %s";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s 轉入 %s";
 
     // 登入頁輪播(Banner_index)
