@@ -336,25 +336,38 @@
     $LANG_PROGRAM_MEMBERACC_COL_status        = "帳戶狀態";
 
     // 財務管理: (account/account_transfer/accountlog/account_handle/account_withdrawal/account_recharge)
-    $LANG_PROGRAM_WEBACCOUNT_PAGE_HEADER                    = "獎金轉入財富金";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_ACCOUNT                   = "會員帳號";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_CAPITAL                   = "獎金餘額";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_BALANCE                   = "財富金餘額";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY             = "轉入財富金金額";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC               = "轉入會員帳號";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO          = "轉入會員帳號訊息";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO_MSG      = "請輸入正確的會員帳號";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_PLACEHOLDER   = "請輸入您要轉入的會員帳號";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY_PLACEHOLDER = "請輸入您要轉入的金額";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM                   = "確定將獎金轉入財富金?";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM2                  = "確定將財富金轉入 %s ?";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT            = "輸入金額不得大於原始餘額！";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS          = "轉入成功！";
-    $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                    = "[ %s ] 密碼重置郵件";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_MYSELF_ERROR          = "不能轉帳給自己！";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG             = "%s 獎金轉入財富金";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2            = "%s 轉帳至 %s";
-    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG           = "%s 轉入 %s";
+    $LANG_PROGRAM_WEBACCOUNT_PAGE_HEADER                       = "獎金轉入財富金";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_ACCOUNT                      = "會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CAPITAL                      = "獎金餘額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_BALANCE                      = "財富金餘額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY                = "轉入財富金金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC                  = "轉入會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO             = "轉入會員帳號訊息";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_INFO_MSG         = "請輸入正確的會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERACC_PLACEHOLDER      = "請輸入您要轉入的會員帳號";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFERMONEY_PLACEHOLDER    = "請輸入您要轉入的金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM                      = "確定將獎金轉入財富金?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_CONFIRM2                     = "確定將財富金轉入 %s ?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_LIMIT               = "輸入金額不得大於原始餘額！";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_TRANSFER_SUCCESS             = "轉入成功！";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_HEADER                       = "[ %s ] 密碼重置郵件";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_MYSELF_ERROR             = "不能轉帳給自己！";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG                = "%s 獎金轉入財富金";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2               = "%s 轉帳至 %s";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG3               = "提現扣款";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG              = "%s 轉入 %s";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_LIMIT             = "最低申請金額<u class='mx-2'>%s</u>起。";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_BANK                         = "提現銀行";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_BANK_EMPTY                   = "請先添加銀行帳戶";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_BANK_SELECT_DEFAULT          = "請選擇提現銀行";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_MONEY             = "提現金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_MONEY_PLACEHOLDER = "請輸入您要提現的金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_CURRENCY          = "提現幣別";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_TOACCMONEY        = "折合金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_CONFIRM           = "確定送出提現申請?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_SUCCESS           = "已送出提現申請！";
+    $LANG_PROGRAM_WEBACCOUNT_REALNAME_UNCHECK                  = "請先完成實名認證，若有疑問請洽客服人員！";
+
 
     // 登入頁輪播(Banner_index)
     $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
