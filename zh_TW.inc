@@ -368,6 +368,18 @@
     $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_SUCCESS           = "已送出提現申請！";
     $LANG_PROGRAM_WEBACCOUNT_REALNAME_UNCHECK                  = "請先完成實名認證，若有疑問請洽客服人員！";
 
+    // 財務管理: 提現記錄 (account_withdrawallog)
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_curre_code        = "幣別";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_money             = "提現金額";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_price             = "PV";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_bank              = "銀行名稱";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_real_name         = "持卡人姓名";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account           = "卡號";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_status            = "審核狀態";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status    = "到帳狀態";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status_1  = "未到帳";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status_2  = "已到帳";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_create_time             = "創建日期";
 
     // 登入頁輪播(Banner_index)
     $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
