@@ -287,6 +287,11 @@
     $LANG_PROGRAM_ROLES_COL_ur_img    = "角色圖示";
     $LANG_PROGRAM_ROLES_COL_memo      = "備註";
 
+    // 403 Forbidden 禁止操作
+    $LANG_PROGRAM_WEB403_CODE    = "403";
+    $LANG_PROGRAM_WEB403_HEADER  = "禁止操作";
+    $LANG_PROGRAM_WEB403_CONTENT = "<p>您目前無權操作任何功能！</p><p>若有疑問，請洽<a href='messages_web.html'>客服人員</a>。</p>";
+
     // 會員管理: 會員列表 ( Member )
     $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
     $LANG_PROGRAM_MEMBER_COL_membe_type       = "會員類型";
