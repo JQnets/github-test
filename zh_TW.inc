@@ -379,7 +379,7 @@
     $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status    = "到帳狀態";
     $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status_1  = "未到帳";
     $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_account_status_2  = "已到帳";
-    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_create_time             = "創建日期";
+    $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_create_time             = "申請日期";
 
     // 登入頁輪播(Banner_index)
     $LANG_PROGRAM_BANNER_INDEX_COL_banin_title = "名稱";
