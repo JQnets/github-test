@@ -400,10 +400,13 @@
 
 
     // 彈出式廣告(Banner_popup)
-    $LANG_PROGRAM_BANNER_POPUP_COL_banner_title = "名稱";
-    $LANG_PROGRAM_BANNER_POPUP_COL_banner_img   = "圖片";
-    $LANG_PROGRAM_BANNER_POPUP_COL_status       = "啟用狀態";
-
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_title  = "標題";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_img    = "圖片";
+    $LANG_PROGRAM_BANNER_POPUP_COL_status        = "啟用狀態";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_desc   = "內文";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_type   = "呈現方式";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_type_1 = "圖片型廣告";
+    $LANG_PROGRAM_BANNER_POPUP_COL_banner_type_2 = "文字型廣告";
 
     // 系統公告(Notice)
     $LANG_PROGRAM_NOTICE_COL_notic_title  = "標題";
