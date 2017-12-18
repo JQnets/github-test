@@ -80,7 +80,6 @@
     $LANG_SYSTEM_BONUS_STORED          = "儲值";
     $LANG_SYSTEM_BONUS_TRANSFER        = "互轉";
     $LANG_SYSTEM_CAPITAL_TO_BALANCE    = "轉入財富金";
-    $LANG_SYSTEM_FUND_TO_MALL          = "轉入商城積分";
     $LANG_SYSTEM_READ_MORE             = "查看更多";
     $LANG_SYSTEM_NEWS                  = "公告";
     $LANG_SYSTEM_NEWS_TIME             = "發佈時間";
@@ -451,9 +450,10 @@
 
 
     // 前台密碼修改
-    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改會員密碼";
-    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改會員二級密碼";
+    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_first_pwd_text = "修改一級密碼";
+    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_second_pwd_text = "修改二級密碼";
     $LANG_PROGRAM_PASSWORD_WEB_COL_incorrect_text  = "密碼不正確";
+    $LANG_PROGRAM_PASSWORD_WEB_COL_membe_first_pwd = "一級密碼";
 
 
     // 前台銀行戶管理
