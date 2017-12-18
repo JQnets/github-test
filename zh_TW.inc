@@ -575,6 +575,35 @@
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_7    = "轉財富金";
 
 
+    // 前台訂單註冊
+    $LANG_PROGRAM_WEBORDERS_COL_order_nickname          = "暱稱";
+    $LANG_PROGRAM_WEBORDERS_COL_order_first_pwd         = "會員密碼";
+    $LANG_PROGRAM_WEBORDERS_COL_order_repwd             = "確認密碼";
+    $LANG_PROGRAM_WEBORDERS_COL_order_name              = "姓名";
+    $LANG_PROGRAM_WEBORDERS_COL_order_type              = "類別";
+    $LANG_PROGRAM_WEBORDERS_COL_order_phone             = "電話";
+    $LANG_PROGRAM_WEBORDERS_COL_order_email             = "信箱";
+    $LANG_PROGRAM_WEBORDERS_COL_order_shiper            = "收貨人";
+    $LANG_PROGRAM_WEBORDERS_COL_order_city              = "縣市";
+    $LANG_PROGRAM_WEBORDERS_COL_order_town              = "市鄉區鎮";
+    $LANG_PROGRAM_WEBORDERS_COL_order_address           = "地址";
+    $LANG_PROGRAM_WEBORDERS_COL_order_zip               = "郵遞區號";
+    $LANG_PROGRAM_WEBORDERS_COL_order_country           = "選擇國別";
+    $LANG_PROGRAM_WEBORDERS_COL_order_account           = "會員帳號";
+    $LANG_PROGRAM_WEBORDERS_COL_order_recommend_account = "推薦人";
+    $LANG_PROGRAM_WEBORDERS_COL_order_fnode_account     = "安置人";
+    $LANG_PROGRAM_WEBORDERS_COL_order_area              = "位置";
+    $LANG_PROGRAM_WEBORDERS_COL_order_reg_num           = "註冊人數";
+    $LANG_PROGRAM_WEBORDERS_COL_order_grade             = "配套等級";
+    $LANG_PROGRAM_WEBORDERS_COL_order_products          = "配套商品";
+    $LANG_PROGRAM_WEBORDERS_COL_order_member_title      = "STEP1：填寫基本資料";
+    $LANG_PROGRAM_WEBORDERS_COL_order_products_title    = "STEP2：選擇帳號及配套方案";
+    $LANG_PROGRAM_WEBORDERS_COL_order_batch_text        = "批量註冊";
+    $LANG_PROGRAM_WEBORDERS_COL_order_text              = "單筆註冊";
+    $LANG_PROGRAM_WEBORDERS_COL_order_type_p            = "個人";
+    $LANG_PROGRAM_WEBORDERS_COL_order_type_e            = "企業";
+    $LANG_PROGRAM_WEBORDERS_COL_order_model_dbcheck     = "訂單資料確認";
+
 
     /**
      * ----------------
