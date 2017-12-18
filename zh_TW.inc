@@ -532,6 +532,13 @@
     $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNACTIVE        = "未啟用";
 
+    //業務管理: 直推會員列表
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_reg_membe_acc      = "會員帳號";
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_f_membe_acc        = "安置人帳號";
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_timestamp          = "加入時間";
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_intro_membe_area   = "區域";
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_intro_membe_area_1 = "左區";
+    $LANG_PROGRAM_WEBRCMMEMBER_COL_intro_membe_area_2 = "右區 ";
 
     // 充值管理
     $LANG_PROGRAM_FM_RECHARGE_COL_membe_acc        = "會員帳戶";
