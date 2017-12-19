@@ -58,7 +58,7 @@
     $LANG_USER_SINGUP_TIME             = "註冊時間";
     $LANG_USER_BONUS_CAPITAL           = "獎金帳戶";
     $LANG_USER_BONUS_BALANCE           = "財富金";
-    $LANG_USER_BONUS_FUND              = "康養積分";
+    $LANG_USER_BONUS_FUND              = "健康積分";
     $LANG_USER_JOIN_TEXT               = "加入";
     $LANG_USER_EMAIL                   = "電子信箱";
     $LANG_USER_BACKTO_SIGNIN           = "返回登入頁";
@@ -569,7 +569,7 @@
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_create_time     = "建立日期";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_1 = "總獎金";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_2 = "財富金";
-    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_3 = "康養積分";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_account_3 = "健康積分";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_1    = "充值";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_2    = "提現";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_3    = "轉出";
