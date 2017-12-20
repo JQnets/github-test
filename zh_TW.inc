@@ -615,6 +615,7 @@
     //獎勵管理: 週撥獎金
     $LANG_PROGRAM_BONUSWEEKLY_COL_daily_report               = "日結獎金報表";
     $LANG_PROGRAM_BONUSWEEKLY_COL_daily_date                 = "結算日期";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_daily_date_to              = "至";
     $LANG_PROGRAM_BONUSWEEKLY_COL_personal_info              = "個人訊息";
     $LANG_PROGRAM_BONUSWEEKLY_COL_bonus_info                 = "獎金訊息";
     $LANG_PROGRAM_BONUSWEEKLY_COL_membe_f_membe_acc          = "安置人帳號";
