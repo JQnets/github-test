@@ -316,6 +316,7 @@
     $LANG_PROGRAM_MEMBER_COL_membe_email      = "電子信箱";
     $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
     $LANG_PROGRAM_MEMBER_COL_membe_memo       = "備註";
+    $LANG_PROGRAM_MEMBER_COL_membe_edit_btn   = "修改基本資料";
 
 
     // 會員管理: 留言回覆 ( member_msg )
