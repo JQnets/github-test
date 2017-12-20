@@ -536,6 +536,7 @@
     $LANG_PROGRAM_NODETREE_COL_NODE_SIGNUP_BTN      = "註冊";
     $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNACTIVE        = "未啟用";
+    $LANG_PROGRAM_NODETREE_COL_SHOW_NODE_TEXT       = "第%s層  %s %s  %s";  // 第n层  左區 暱稱 TWXXXXXXX
 
     //業務管理: 直推會員列表
     $LANG_PROGRAM_WEBRCMMEMBER_COL_reg_membe_acc      = "會員帳號";
