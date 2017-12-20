@@ -537,6 +537,8 @@
     $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNACTIVE        = "未啟用";
     $LANG_PROGRAM_NODETREE_COL_SHOW_NODE_TEXT       = "第%s層  %s %s  %s";  // 第n层  左區 暱稱 TWXXXXXXX
+    $LANG_PROGRAM_NODETREE_COL_SHOW_NODE_LEFT       = "左區";
+    $LANG_PROGRAM_NODETREE_COL_SHOW_NODE_RIGHT      = "右區";
 
     //業務管理: 直推會員列表
     $LANG_PROGRAM_WEBRCMMEMBER_COL_reg_membe_acc      = "會員帳號";
@@ -608,6 +610,55 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_type_p            = "個人";
     $LANG_PROGRAM_WEBORDERS_COL_order_type_e            = "企業";
     $LANG_PROGRAM_WEBORDERS_COL_order_model_dbcheck     = "訂單資料確認";
+
+
+    //獎勵管理: 週撥獎金
+    $LANG_PROGRAM_BONUSWEEKLY_COL_daily_report               = "日結獎金報表";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_daily_date                 = "結算日期";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_personal_info              = "個人訊息";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_bonus_info                 = "獎金訊息";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_membe_f_membe_acc          = "安置人帳號";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_membe_r_membe_acc          = "推薦人帳號";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_query_weekly               = "請選擇週日期";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_create_time                = "週日期";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_recommend_bonus      = "直推獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_layer_bonus          = "層碰獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pair_bonus           = "對碰獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_equal_bonus          = "對等獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_total          = "獎金總合";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_receivable     = "應發獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_capital        = "可提領獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_diff           = "(級差獎金)";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_unquality      = "(無資格領取)";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_check                = "會員資格";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_check          = "完成";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_uncheck        = "未完成";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_check_l1r1           = "左一右一";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_check_l2r2           = "左二右二";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_layer_check          = "層碰獎資格";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pair_check           = "對碰獎資格";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_equal_check          = "對等獎資格";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_recommend_bonus_src  = "直推獎金來源";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_layer_bonus_src      = "層碰獎金來源";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pair_bonus_src       = "對碰獎金來源";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_equal_bonus_src      = "對等獎金來源";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_maker          = "產生用戶";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement          = "計算業績";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_yestoday = "昨日保留業績";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_todey    = "今日新增業績";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_total    = "合計業績";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_save     = "剩餘";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus                = "獎金";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_level                = "相對層級";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_child                = "代數";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pos                  = "位置";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_status                     = "發放狀態";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_status_1                   = "未發放";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_status_2                   = "已發放";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_empty                      = "暫無";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_bonus_rules_title          = "應發獎金規則說明";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_bonus_rules_desc           = "<p><b>個人會員應發獎金</b><br />為獎金總合扣除10%個人所得稅及2%二代健保費後所得之金額。</p><b>公司會員應發獎金</b><br />為獎金總合，但需開立足額發票給公司。";
+
 
 
     /**
