@@ -373,6 +373,7 @@
     $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_CONFIRM           = "確定送出提現申請?";
     $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_SUCCESS           = "已送出提現申請！";
     $LANG_PROGRAM_WEBACCOUNT_REALNAME_UNCHECK                  = "請先完成實名認證，若有疑問請洽客服人員！";
+    $LANG_PROGRAM_WEBACCOUNT_REALNAME_FILE_DOWNLOAD            = "下載實名認證申請書";
 
     // 財務管理: 提現記錄 (account_withdrawallog)
     $LANG_PROGRAM_WEBWITHDRAWALLOG_COL_withd_curre_code        = "幣別";
