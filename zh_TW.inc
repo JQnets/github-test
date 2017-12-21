@@ -304,7 +304,7 @@
     $LANG_PROGRAM_MEMBER_COL_membe_r_membe_id = "推薦人";
     $LANG_PROGRAM_MEMBER_COL_check_real_name  = "實名審核";
     $LANG_PROGRAM_MEMBER_COL_status           = "帳戶狀態";
-    $LANG_PROGRAM_MEMBER_COL_status_1         = "未啟用";
+    $LANG_PROGRAM_MEMBER_COL_status_1         = "申請中";
     $LANG_PROGRAM_MEMBER_COL_status_2         = "啟用";
     $LANG_PROGRAM_MEMBER_COL_status_3         = "凍結帳戶";
     $LANG_PROGRAM_MEMBER_COL_status_4         = "無效帳戶";
