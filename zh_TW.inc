@@ -706,9 +706,9 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_userbonusbalance_text = "財富金不足!!";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_pay_msg = "付款完畢";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_cancel_msg = "取消完畢";
-    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_order_grade = "配套等級";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_grade = "配套等級";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_product = "配套商品";
-    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_order_mtype = "會員類別";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_mtype = "會員類別";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_phone = "手機";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_email = "信箱";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_country = "國家";
