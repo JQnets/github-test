@@ -718,6 +718,49 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_address = "地址";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_total_text = "訂單總量";
 
+    // 會員管理: 實名審核資料
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_id                = "申請資料";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_membe_acc               = "會員帳號";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_name              = "姓名/公司名稱";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_principal         = "公司負責人";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_pid               = "身份證字號/公司統編";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_gender            = "性別";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_gender_1          = "男";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_gender_2          = "女";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_birth             = "出生日期(西元年月日)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_country           = "國家 (戶籍地址/公司登記地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_province          = "省份 (戶籍地址/公司登記地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_city              = "縣市代碼 (戶籍地址/公司登記地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_town              = "市鄉區鎮代碼 (戶籍地址/公司登記地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_address           = "戶籍地址/公司登記地址";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_zip               = "郵遞區號 (戶籍地址/公司登記地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_country      = "國家 (通訊地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_province     = "省份 (通訊地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_city         = "縣市代碼 (通訊地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_town         = "市鄉區鎮代碼 (通訊地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_address      = "通訊地址";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_comm_zip          = "郵遞區號 (通訊地址)";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_phone             = "公司電話";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_tel               = "住宅電話";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_mobile            = "手機號碼";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_fax               = "傳真號碼";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_email             = "Email";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_f_membe_acc       = "安置人會員帳號";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_f_membe_name      = "安置人姓名";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_f_membe_area      = "安置位置";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_f_membe_area_1    = "左區";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_f_membe_area_2    = "右區";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_r_membe_acc       = "推薦人會員帳號";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_r_membe_name      = "推薦人姓名";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_r_membe_tel       = "推薦人電話";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_bank_name         = "銀行名稱/分行";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_bank_account_name = "戶名";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_bank_account      = "銀行帳號";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_bank_img          = "銀行存摺封面照片";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_positive_img      = "身份證正面照片";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_negative_img      = "身份證反面照片";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_create_time             = "申請日期";
+
     /**
      * ----------------
      *   modal用,宣告全域變數
