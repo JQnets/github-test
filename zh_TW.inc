@@ -154,6 +154,8 @@
     $LANG_COMMON_TEXT_LOCK             = "鎖定";
     $LANG_COMMON_TEXT_PASS             = "通過";
     $LANG_COMMON_TEXT_PASS_FAIL        = "未通過";
+    $LANG_COMMON_TEXT_DONE             = "完成";
+    $LANG_COMMON_TEXT_UNDONE           = "未完成";
     $LANG_COMMON_TEXT_GENDER_MALE      = "先生";
     $LANG_COMMON_TEXT_GENDER_FEMALE    = "小姐";
     $LANG_COMMON_TEXT_PW_MODIFY        = "(不修改密碼請保持欄位空白)";
@@ -162,6 +164,7 @@
     $LANG_COMMON_TEXT_ABNORMAL         = "異常";
     $LANG_COMMON_CURR_PHOTO            = "目前使用圖片";
     $LANG_COMMON_QUERY_TIME            = "請選擇查詢日期";
+    $LANG_COMMON_QUERY_FIELD_COPY      = "同上";
 
     // 授權 (Auth)
     $LANG_AUTH_LOGIN_TIMEOUT           = "登入資訊逾時,請重新登入";
@@ -504,7 +507,7 @@
     $LANG_PROGRAM_ORDERS_COL_make_type               = "操作類型";
     $LANG_PROGRAM_ORDERS_COL_pay_time                = "付款時間";
     $LANG_PROGRAM_ORDERS_COL_send_time               = "發貨時間";
-    $LANG_PROGRAM_ORDERS_COL_finish_time             = "完成时间";
+    $LANG_PROGRAM_ORDERS_COL_finish_time             = "完成時間";
     $LANG_PROGRAM_ORDERS_COL_is_cum                  = "是否计算奖金";
     $LANG_PROGRAM_ORDERS_COL_reg_num                 = "註冊人數";
     $LANG_PROGRAM_ORDERS_COL_ship_status             = "發貨狀態";
@@ -690,7 +693,7 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_status_2 = "未付款";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_pay_time = "付款時間";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_send_time = "發貨時間";
-    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_finish_time = "完成时间";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_finish_time = "完成時間";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_ship_status = "發貨狀態";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_ship_status_1 = "未發";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_ship_status_2 = "已發";
@@ -719,7 +722,9 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_total_text = "訂單總量";
 
     // 會員管理: 實名審核資料
-    $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_id                = "申請資料";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_header_1                = "申請資料";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_header_2                = "推薦安置資料";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_header_3                = "申請者銀行帳戶資料";
     $LANG_PROGRAM_MEMBERIDCARD_COL_membe_acc               = "會員帳號";
     $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_name              = "姓名/公司名稱";
     $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_principal         = "公司負責人";
@@ -760,6 +765,8 @@
     $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_positive_img      = "身份證正面照片";
     $LANG_PROGRAM_MEMBERIDCARD_COL_memdo_negative_img      = "身份證反面照片";
     $LANG_PROGRAM_MEMBERIDCARD_COL_create_time             = "申請日期";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_load_member_btn         = "載入會員資料";
+    $LANG_PROGRAM_MEMBERIDCARD_COL_memberdoc_exist_msg     = "會員實名認證申請已存在";
 
     /**
      * ----------------
