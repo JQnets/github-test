@@ -380,6 +380,7 @@
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG                = "%s 獎金轉入財富金";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG2               = "%s 轉帳至 %s";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG3               = "提現扣款";
+    $LANG_PROGRAM_WEBACCOUNT_TRANSFER_TO_MSGLOG4               = "%s %s儲值 %s";
     $LANG_PROGRAM_WEBACCOUNT_TRANSFER_FROM_MSGLOG              = "%s 轉入 %s";
     $LANG_PROGRAM_WEBACCOUNT_FORM_WITHDRAWAL_LIMIT             = "最低申請金額<u class='mx-2'>%s</u>起。";
     $LANG_PROGRAM_WEBACCOUNT_FORM_BANK                         = "提現銀行";
@@ -569,19 +570,29 @@
     $LANG_PROGRAM_WEBRCMMEMBER_COL_intro_membe_area_2 = "右區 ";
 
     // 充值管理
-    $LANG_PROGRAM_FM_RECHARGE_COL_membe_acc        = "會員帳戶";
-    $LANG_PROGRAM_FM_RECHARGE_COL_membe_name       = "名稱";
-    $LANG_PROGRAM_FM_RECHARGE_COL_recha_money      = "現金";
-    $LANG_PROGRAM_FM_RECHARGE_COL_recha_memo       = "描述";
-    $LANG_PROGRAM_FM_RECHARGE_COL_type             = "類型";
-    $LANG_PROGRAM_FM_RECHARGE_COL_status           = "狀態";
-    $LANG_PROGRAM_FM_RECHARGE_COL_create_time      = "申請日期";
-    $LANG_PROGRAM_FM_RECHARGE_COL_status_1         = "已審核";
-    $LANG_PROGRAM_FM_RECHARGE_COL_status_2         = "未審核";
-    $LANG_PROGRAM_FM_RECHARGE_COL_type_1           = "手動";
-    $LANG_PROGRAM_FM_RECHARGE_COL_type_2           = "轉帳";
-    $LANG_PROGRAM_FM_RECHARGE_COL_btnStatus        = "批量審核";
-    $LANG_PROGRAM_FM_RECHARGE_COL_single_btnStatus = "單筆審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_membe_acc                   = "會員帳戶";
+    $LANG_PROGRAM_FM_RECHARGE_COL_membe_name                  = "名稱";
+    $LANG_PROGRAM_FM_RECHARGE_COL_recha_money                 = "現金";
+    $LANG_PROGRAM_FM_RECHARGE_COL_recha_memo                  = "描述";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type                        = "類型";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status                      = "狀態";
+    $LANG_PROGRAM_FM_RECHARGE_COL_create_time                 = "申請日期";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status_1                    = "已審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_status_2                    = "未審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_1                      = "手動";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_2                      = "轉帳";
+    $LANG_PROGRAM_FM_RECHARGE_COL_btnStatus                   = "批量審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_single_btnStatus            = "單筆審核";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type                        = "付款方式";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_1                      = "現金";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_2                      = "信用卡";
+    $LANG_PROGRAM_FM_RECHARGE_COL_type_2_msg                  = " (需額外收取2%收續費)";
+    $LANG_PROGRAM_FM_RECHARGE_COL_recha_pv                    = "PV值";
+    $LANG_PROGRAM_FM_RECHARGE_FORM_RECHARGE_MONEY_PLACEHOLDER = "請輸入您要儲值的金額";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_RECHARGE_CONFIRM_CASH       = "確定以現金儲值 <b>$%s (%s PV)</b>?";
+    $LANG_PROGRAM_WEBACCOUNT_FORM_RECHARGE_CONFIRM_CREDITCARD = "<p>確定以信用卡儲值 <b>$%s (%s PV)</b>?</p><b class='text-red'>%s</b>";
+    $LANG_PROGRAM_WEBACCOUNT_RECHARGE_SUCCESS                 = "儲值成功！<p>待系統審核通過後，將會自動儲值至您的財富金帳戶。</p>";
+
 
     // 資金流水列表
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_membe_id        = "會員帳戶";
