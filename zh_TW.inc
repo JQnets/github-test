@@ -832,6 +832,13 @@
     $LANG_PROGRAM_BONUS_PAIR_COL_status_4                        = "業績不足";
     $LANG_PROGRAM_BONUS_PAIR_COL_update_time                     = "更新時間";
 
+    // 後台-組織管理
+    $LANG_PROGRAM_ORGANIZE_COL_membe_account = "會員帳號";
+    $LANG_PROGRAM_ORGANIZE_COL_node_pos      = "節點位置";
+    $LANG_PROGRAM_ORGANIZE_COL_node_deep     = "深度";
+    $LANG_PROGRAM_ORGANIZE_COL_create_time   = "建立日期";
+    $LANG_PROGRAM_ORGANIZE_COL_update_time   = "更新日期";
+
 
     /**
      * ----------------
