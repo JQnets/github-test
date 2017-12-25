@@ -297,29 +297,44 @@
     $LANG_PROGRAM_WEB403_CONTENT = "<p>您目前無權操作任何功能！</p><p>若有疑問，請洽<a href='messages_web.html'>客服人員</a>。</p>";
 
     // 會員管理: 會員列表 ( Member )
-    $LANG_PROGRAM_MEMBER_COL_grade_id         = "配套等級";
-    $LANG_PROGRAM_MEMBER_COL_membe_type       = "會員類型";
-    $LANG_PROGRAM_MEMBER_COL_membe_type_E     = "企業會員";
-    $LANG_PROGRAM_MEMBER_COL_membe_type_P     = "個人會員";
-    $LANG_PROGRAM_MEMBER_COL_membe_account    = "會員帳號";
-    $LANG_PROGRAM_MEMBER_COL_membe_name       = "名稱";
-    $LANG_PROGRAM_MEMBER_COL_membe_f_membe_id = "安置人";
-    $LANG_PROGRAM_MEMBER_COL_membe_r_membe_id = "推薦人";
-    $LANG_PROGRAM_MEMBER_COL_check_real_name  = "實名審核";
-    $LANG_PROGRAM_MEMBER_COL_status           = "帳戶狀態";
-    $LANG_PROGRAM_MEMBER_COL_status_1         = "申請中";
-    $LANG_PROGRAM_MEMBER_COL_status_2         = "啟用";
-    $LANG_PROGRAM_MEMBER_COL_status_3         = "凍結帳戶";
-    $LANG_PROGRAM_MEMBER_COL_status_4         = "無效帳戶";
-    $LANG_PROGRAM_MEMBER_COL_update_time      = "更新日期";
-    $LANG_PROGRAM_MEMBER_COL_membe_first_pwd  = "會員密碼";
-    $LANG_PROGRAM_MEMBER_COL_membe_second_pwd = "二級密碼";
-    $LANG_PROGRAM_MEMBER_COL_membe_nickname   = "暱稱";
-    $LANG_PROGRAM_MEMBER_COL_membe_gender     = "性別";
-    $LANG_PROGRAM_MEMBER_COL_membe_email      = "電子信箱";
-    $LANG_PROGRAM_MEMBER_COL_membe_birth      = "生日";
-    $LANG_PROGRAM_MEMBER_COL_membe_memo       = "備註";
-    $LANG_PROGRAM_MEMBER_COL_membe_edit_btn   = "修改基本資料";
+    $LANG_PROGRAM_MEMBER_COL_grade_id               = "配套等級";
+    $LANG_PROGRAM_MEMBER_COL_membe_type             = "會員類型";
+    $LANG_PROGRAM_MEMBER_COL_membe_type_E           = "企業會員";
+    $LANG_PROGRAM_MEMBER_COL_membe_type_P           = "個人會員";
+    $LANG_PROGRAM_MEMBER_COL_membe_account          = "會員帳號";
+    $LANG_PROGRAM_MEMBER_COL_membe_name             = "名稱";
+    $LANG_PROGRAM_MEMBER_COL_membe_f_membe_id       = "安置人";
+    $LANG_PROGRAM_MEMBER_COL_membe_r_membe_id       = "推薦人";
+    $LANG_PROGRAM_MEMBER_COL_check_real_name        = "實名審核";
+    $LANG_PROGRAM_MEMBER_COL_status                 = "帳戶狀態";
+    $LANG_PROGRAM_MEMBER_COL_status_1               = "申請中";
+    $LANG_PROGRAM_MEMBER_COL_status_2               = "啟用";
+    $LANG_PROGRAM_MEMBER_COL_status_3               = "凍結帳戶";
+    $LANG_PROGRAM_MEMBER_COL_status_4               = "無效帳戶";
+    $LANG_PROGRAM_MEMBER_COL_update_time            = "更新日期";
+    $LANG_PROGRAM_MEMBER_COL_membe_first_pwd        = "會員密碼";
+    $LANG_PROGRAM_MEMBER_COL_membe_second_pwd       = "二級密碼";
+    $LANG_PROGRAM_MEMBER_COL_membe_nickname         = "暱稱";
+    $LANG_PROGRAM_MEMBER_COL_membe_gender           = "性別";
+    $LANG_PROGRAM_MEMBER_COL_membe_email            = "電子信箱";
+    $LANG_PROGRAM_MEMBER_COL_membe_birth            = "生日";
+    $LANG_PROGRAM_MEMBER_COL_membe_memo             = "備註";
+    $LANG_PROGRAM_MEMBER_COL_membe_edit_btn         = "修改基本資料";
+    $LANG_PROGRAM_MEMBER_BUSINESS_INFO              = "業務資訊";
+    $LANG_PROGRAM_MEMBER_RECOMMEND_INFO             = "直推資訊";
+    $LANG_PROGRAM_MEMBER_COL_mempe_left_area        = "左區推薦人數";
+    $LANG_PROGRAM_MEMBER_COL_mempe_right_area       = "右區推薦人數";
+    $LANG_PROGRAM_MEMBER_COL_mempe_recommend_bonus  = "直推總收益";
+    $LANG_PROGRAM_MEMBER_COL_mempe_layer_bonus      = "層碰總收益";
+    $LANG_PROGRAM_MEMBER_COL_mempe_pair_bonus       = "對碰總收益";
+    $LANG_PROGRAM_MEMBER_COL_mempe_equal_bonus      = "對等總收益";
+    $LANG_PROGRAM_MEMBER_COL_mempe_left_layer_save  = "左區層碰保留業績";
+    $LANG_PROGRAM_MEMBER_COL_mempe_right_layer_save = "右區層碰保留業績";
+    $LANG_PROGRAM_MEMBER_COL_mempe_left_pair_save   = "左區對碰保留業績";
+    $LANG_PROGRAM_MEMBER_COL_mempe_right_pair_save  = "右區對碰保留業績";
+    $LANG_PROGRAM_MEMBER_COL_mempe_left_sum_area    = "左區總業績";
+    $LANG_PROGRAM_MEMBER_COL_mempe_right_sum_area   = "右區總業績";
+
 
 
     // 會員管理: 留言回覆 ( member_msg )
