@@ -850,6 +850,10 @@
     $LANG_PROGRAM_ORGANIZE_COL_create_time   = "建立日期";
     $LANG_PROGRAM_ORGANIZE_COL_update_time   = "更新日期";
 
+    //我的重消訂單
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_tpv       = "總pv值";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_pre_order = "預購日期";
+
 
     /**
      * ----------------
