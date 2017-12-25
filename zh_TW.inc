@@ -768,6 +768,56 @@
     $LANG_PROGRAM_MEMBERIDCARD_COL_load_member_btn         = "載入會員資料";
     $LANG_PROGRAM_MEMBERIDCARD_COL_memberdoc_exist_msg     = "會員實名認證申請已存在";
 
+    // 後台-獎金管理
+    $LANG_PROGRAM_BONUS_DIRECT_COL_reg_membe_acc                 = "提供用戶";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_receiving_membe_acc           = "獎勵用戶";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_timestamp                     = "時間";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_status                        = "狀態";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_status_1                      = "未審核";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_status_2                      = "已結算";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_achievement                   = "業績";
+    $LANG_PROGRAM_BONUS_DIRECT_COL_bonus                         = "獎金";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_boneq_b_membe_acc              = "獎勵用戶";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_boneq_e_membe_acc              = "提供用戶";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_boneq_achievement              = "業績";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_boneq_num                      = "代數";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_bonus                          = "獎金";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_status                         = "狀態";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_status_1                       = "未審核";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_status_2                       = "已結算";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_status_3                       = "無資格領取";
+    $LANG_PROGRAM_BONUS_EQUAL_COL_on_date                        = "時間";
+    $LANG_PROGRAM_BONUS_LAYER_COL_f_membe_account                = "獎勵用戶";
+    $LANG_PROGRAM_BONUS_LAYER_COL_bonla_floor                    = "相遇深度";
+    $LANG_PROGRAM_BONUS_LAYER_COL_bonla_pos_one_acc              = "相遇會員1";
+    $LANG_PROGRAM_BONUS_LAYER_COL_bonla_pos_two_acc              = "相遇會員2";
+    $LANG_PROGRAM_BONUS_LAYER_COL_bonla_achievement              = "業績";
+    $LANG_PROGRAM_BONUS_LAYER_COL_bonus                          = "獎金";
+    $LANG_PROGRAM_BONUS_LAYER_COL_status                         = "狀態";
+    $LANG_PROGRAM_BONUS_LAYER_COL_status_1                       = "未審核";
+    $LANG_PROGRAM_BONUS_LAYER_COL_status_2                       = "已結算";
+    $LANG_PROGRAM_BONUS_LAYER_COL_status_3                       = "無資格領取";
+    $LANG_PROGRAM_BONUS_LAYER_COL_timestamp                      = "相遇時間";
+    $LANG_PROGRAM_BONUS_PAIR_COL_b_membe_account                 = "獎勵用戶";
+    $LANG_PROGRAM_BONUS_PAIR_COL_b_pos                           = "深度";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_area                      = "位置";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_left                      = "左區";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_right                     = "右區";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_save_achievement_yestoday = "昨日保留業績";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_achievement_today         = "今天新增業績";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_total_achievement         = "合計業績";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_achievement               = "計算業績";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonpa_save_achievement          = "剩餘業績";
+    $LANG_PROGRAM_BONUS_PAIR_COL_bonus                           = "獎金";
+    $LANG_PROGRAM_BONUS_PAIR_COL_timestamp                       = "對碰時間";
+    $LANG_PROGRAM_BONUS_PAIR_COL_status                          = "狀態";
+    $LANG_PROGRAM_BONUS_PAIR_COL_status_1                        = "未審核";
+    $LANG_PROGRAM_BONUS_PAIR_COL_status_2                        = "已結算";
+    $LANG_PROGRAM_BONUS_PAIR_COL_status_3                        = "無資格領取";
+    $LANG_PROGRAM_BONUS_PAIR_COL_status_4                        = "業績不足";
+    $LANG_PROGRAM_BONUS_PAIR_COL_update_time                     = "更新時間";
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
