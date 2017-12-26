@@ -865,6 +865,12 @@
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_total           = "小計";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_rebuy_date      = "重消時間";
 
+    //重消訂單(後台)
+    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_year = "重消(年)";
+    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_month = "重消(月)";
+
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
