@@ -135,6 +135,7 @@
     $LANG_COMMON_TEXT_CLOSE            = "關閉";
     $LANG_COMMON_TEXT_SEND             = "送出";
     $LANG_COMMON_TEXT_OK               = "確定";
+    $LANG_COMMON_TEXT_GOBACK           = "返回";
     $LANG_COMMON_QUERY                 = "查詢";
     $LANG_COMMON_TEXT_PAGE             = "第 <b> %s </b> - <b> %s </b> 列 (共有 <b> %s </b> 列)";
     $LANG_COMMON_TEXT_PAGE_LENGTHMENU  = "顯示 %s 筆記錄";
@@ -165,6 +166,7 @@
     $LANG_COMMON_CURR_PHOTO            = "目前使用圖片";
     $LANG_COMMON_QUERY_TIME            = "請選擇查詢日期";
     $LANG_COMMON_QUERY_FIELD_COPY      = "同上";
+
 
     // 授權 (Auth)
     $LANG_AUTH_LOGIN_TIMEOUT           = "登入資訊逾時,請重新登入";
