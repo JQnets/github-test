@@ -16,7 +16,7 @@
     $LANG_PAGE_META                    = "999康養財富計劃";
     $LANG_PAGE_COPYRIGHT               = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION                 = "1.2 國際版";
-    $LANG_PAGE_DAILYCALCULATE_MSG      = "系統結算中，僅開放查詢動作，結算期間 00:00:00~04:00:00。";
+    $LANG_PAGE_DAILYCALCULATE_MSG      = "系統結算中，僅開放查詢動作，結算期間 %s ~ %s。";
 
     // Session(COOKIE) & Login
     $LANG_SESSION_ACTIVE               = "<p>目前你的瀏覽器未開啟COOKIE，無法進入。</p> <br / > 請開啟COOKIE後在登入。</p>";
@@ -57,6 +57,7 @@
     $LANG_USER_NUMBER                  = "會員編號";
     $LANG_USER_SINGUP_TIME             = "註冊時間";
     $LANG_USER_BONUS_CAPITAL           = "獎金帳戶";
+    $LANG_USER_BONUS_CAPITAL2          = "獎金";
     $LANG_USER_BONUS_BALANCE           = "財富金";
     $LANG_USER_BONUS_FUND              = "健康積分";
     $LANG_USER_JOIN_TEXT               = "加入";
@@ -876,7 +877,12 @@
     $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_year = "重消(年)";
     $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_month = "重消(月)";
 
-
+    // 後台-財務管理:週獎勵
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_CONFIRM_REWARD       = "確定發放該週 (%s) 獎勵?";
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_CALCULATE = "當週結算中";
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_BTN       = "發放獎勵";
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_BONUS         = "%s 獲得%s";  // 誰獲得健康積分/獎金
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_SUCCESS       = "發放完成！<p>共發放 %s 筆。</p>";
 
     /**
      * ----------------
