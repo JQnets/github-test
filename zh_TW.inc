@@ -13,7 +13,7 @@
      */
 
     // 主版面
-    $LANG_PAGE_META                    = "999康養財富計劃";
+    $LANG_PAGE_META                    = "1080 登峰財富計劃";
     $LANG_PAGE_COPYRIGHT               = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION                 = "1.2 國際版";
     $LANG_PAGE_DAILYCALCULATE_MSG      = "系統結算中，僅開放查詢動作，結算期間 %s ~ %s。";
@@ -883,6 +883,32 @@
     $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_BTN       = "發放獎勵";
     $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_BONUS         = "%s 獲得%s";  // 誰獲得健康積分/獎金
     $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_SUCCESS       = "發放完成！<p>共發放 %s 筆。</p>";
+
+    // 後台提現列表
+    $LANG_PROGRAM_FM_WITHDRAW_COL_membe_acc              = "會員帳號";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_curre_code       = "幣別";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_money            = "現金";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_price            = "轉換的pv值";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_bank             = "銀行名稱";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_real_name        = "帳名";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_account          = "銀行帳號";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_status           = "審核狀態";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_status_1         = "未審核";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_status_2         = "審核通過";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_status_3         = "審核失敗";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_account_status   = "到帳狀態";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_account_status_1 = "未到帳";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_account_status_2 = "已到帳";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_create_time            = "申請日期";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text1        = "到帳審核";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text2        = "多筆到帳審核";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text3        = "審核(通過)";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text4        = "多筆審核(通過)";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text5        = "審核(失敗)";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text6        = "多筆審核(失敗)";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_btn_text7        = "多筆滙出";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_judge_msg        = "審核完畢";
+    $LANG_PROGRAM_FM_WITHDRAW_COL_withd_judge_acc_msg    = "到帳審核完畢";
 
     /**
      * ----------------
