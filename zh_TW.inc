@@ -651,6 +651,8 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_create_acc        = "請產生一組會員帳號";
     $LANG_PROGRAM_WEBORDERS_COL_order_can_reg           = "可註冊!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_not_reg           = "不可註冊!!";
+    $LANG_PROGRAM_WEBORDERS_COL_order_money             = "訂單金額";
+    $LANG_PROGRAM_WEBORDERS_COL_order_tmoney            = "總訂單金額";
 
 
     //獎勵管理: 週撥獎金
