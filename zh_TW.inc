@@ -612,6 +612,7 @@
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_5    = "註冊扣款";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_6    = "退款";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_7    = "轉財富金";
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_8    = "升級扣款";
 
 
     // 前台訂單註冊
