@@ -13,7 +13,7 @@
      */
 
     // 主版面
-    $LANG_PAGE_META                    = "999康養財富計劃";
+    $LANG_PAGE_META                    = "1080 登峰財富計劃";
     $LANG_PAGE_COPYRIGHT               = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION                 = "1.2 國際版";
     $LANG_PAGE_DAILYCALCULATE_MSG      = "系統結算中，僅開放查詢動作，結算期間 %s ~ %s。";
@@ -556,6 +556,7 @@
     $LANG_PROGRAM_NODETREE_COL_TABLE_TH_PAIR        = "未對碰";
     $LANG_PROGRAM_NODETREE_COL_TRANSFER_FORTUNE_BTN = "轉帳";
     $LANG_PROGRAM_NODETREE_COL_NODE_NOT_EXIST       = "接點不存在，請重新查詢！";
+    $LANG_PROGRAM_NODETREE_COL_NODE_UNCALCULATE     = "未結算";
     $LANG_PROGRAM_NODETREE_COL_NODE_UNSIGNUP        = "未註冊";
     $LANG_PROGRAM_NODETREE_COL_NODE_SIGNUP_BTN      = "註冊";
     $LANG_PROGRAM_NODETREE_COL_NODE_ACTIVE          = "啟用";
