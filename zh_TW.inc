@@ -913,6 +913,26 @@
     $LANG_PROGRAM_FM_WITHDRAW_COL_withd_judge_msg        = "審核完畢";
     $LANG_PROGRAM_FM_WITHDRAW_COL_withd_judge_acc_msg    = "到帳審核完畢";
 
+    // 後台-統計管理:撥發比
+    $LANG_PROGRAM_BOFABI_COL_rectime     = "日期";
+    $LANG_PROGRAM_BOFABI_COL_query_alarm = "查詢日期不能大於今日(包含今日)，請重新選擇。";
+    $LANG_PROGRAM_BOFABI_COL_achievement = "總業績";
+    $LANG_PROGRAM_BOFABI_COL_include_day = "(包含當天)";
+    $LANG_PROGRAM_BOFABI_COL_history     = "歷史統計";
+    $LANG_PROGRAM_BOFABI_COL_day         = "每日統計";
+    $LANG_PROGRAM_BOFABI_COL_bofabi      = "撥發比";
+    $LANG_PROGRAM_BOFABI_COL_rbonus      = "應撥總直推";
+    $LANG_PROGRAM_BOFABI_COL_rbonus_rec  = "實撥總直推";
+    $LANG_PROGRAM_BOFABI_COL_lbonus      = "應撥總層碰";
+    $LANG_PROGRAM_BOFABI_COL_lbonus_rec  = "實撥總層碰";
+    $LANG_PROGRAM_BOFABI_COL_pbonus      = "應撥總對碰";
+    $LANG_PROGRAM_BOFABI_COL_pbonus_rec  = "實撥總對碰";
+    $LANG_PROGRAM_BOFABI_COL_ebonus      = "應撥總對等";
+    $LANG_PROGRAM_BOFABI_COL_ebonus_rec  = "實撥總對等";
+    $LANG_PROGRAM_BOFABI_COL_total       = "應撥合計";
+    $LANG_PROGRAM_BOFABI_COL_total_rec   = "實撥合計";
+
+
     /**
      * ----------------
      *   modal用,宣告全域變數
