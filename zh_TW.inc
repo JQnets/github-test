@@ -932,6 +932,18 @@
     $LANG_PROGRAM_BOFABI_COL_total       = "應撥合計";
     $LANG_PROGRAM_BOFABI_COL_total_rec   = "實撥合計";
 
+    // 前台-獎勵管理:月結獎金
+    $LANG_PROGRAM_BONUSMONTHLY_COL_bonre_month = "結算月";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_bonus       = "重消獎金";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_bonus_src   = "重消獎金來源";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_bonus_rec   = "應發獎金";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_rebuy_check = "領獎資格";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_status      = "發放狀態";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_status_1    = "未發放";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_status_2    = "己發放";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_status_3    = "無資格領取";
+    $LANG_PROGRAM_BONUSMONTHLY_COL_status_0    = "符合資格";
+
 
     /**
      * ----------------
