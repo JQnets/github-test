@@ -944,6 +944,24 @@
     $LANG_PROGRAM_BONUSMONTHLY_COL_status_3    = "無資格領取";
     $LANG_PROGRAM_BONUSMONTHLY_COL_status_0    = "符合資格";
 
+    // 前台-獎勵管理:年度分紅
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_mylv   = "小區業績累計達到級別";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_mylv_1 = "累計達到100萬";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_mylv_2 = "累計達到500萬";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_mylv_3 = "累計達到1000萬";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_mypv   = "個人小區業績";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_lv_tpv = "達同等級所有會員小區業績";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonye_tpv    = "公司總業績";
+    $LANG_PROGRAM_BONUSYEARLY_COL_scale        = "獎金比例";
+    $LANG_PROGRAM_BONUSYEARLY_COL_TeX          = "年度分紅獎金公式:";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonre_year   = "結算年";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonus        = "年度分紅";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonus_src    = "年度分紅獎金來源";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonus_rec    = "應發獎金";
+    $LANG_PROGRAM_BONUSYEARLY_COL_status       = "發放狀態";
+    $LANG_PROGRAM_BONUSYEARLY_COL_status_1     = "未發放";
+    $LANG_PROGRAM_BONUSYEARLY_COL_status_2     = "己發放";
+
 
     /**
      * ----------------
