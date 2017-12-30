@@ -955,7 +955,7 @@
     $LANG_PROGRAM_BONUSYEARLY_COL_scale        = "獎金比例";
     $LANG_PROGRAM_BONUSYEARLY_COL_TeX          = "年度分紅獎金公式:";
     $LANG_PROGRAM_BONUSYEARLY_COL_bonre_year   = "結算年";
-    $LANG_PROGRAM_BONUSYEARLY_COL_bonus        = "年度分紅";
+    $LANG_PROGRAM_BONUSYEARLY_COL_bonus        = "年度分紅獎金";
     $LANG_PROGRAM_BONUSYEARLY_COL_bonus_src    = "年度分紅獎金來源";
     $LANG_PROGRAM_BONUSYEARLY_COL_bonus_rec    = "應發獎金";
     $LANG_PROGRAM_BONUSYEARLY_COL_status       = "發放狀態";
