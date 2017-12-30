@@ -882,8 +882,8 @@
     $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_month = "重消(月)";
 
     // 後台-財務管理:週獎勵
-    $LANG_PROGRAM_FM_REWARD_WEEKLY_CONFIRM_REWARD       = "確定發放該週 (%s) 獎勵?";
-    $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_CALCULATE = "當週結算中";
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_CONFIRM_REWARD       = "確定發放該筆 /"%s/" 獎勵?";
+    $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_CALCULATE = "結算中";
     $LANG_PROGRAM_FM_REWARD_WEEKLY_COL_REWARD_BTN       = "發放獎勵";
     $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_BONUS         = "%s 獲得%s";  // 誰獲得健康積分/獎金
     $LANG_PROGRAM_FM_REWARD_WEEKLY_REWARD_SUCCESS       = "發放完成！<p>共發放 %s 筆。</p>";
