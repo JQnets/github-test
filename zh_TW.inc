@@ -17,6 +17,7 @@
     $LANG_PAGE_COPYRIGHT               = "2017 aleen39.tw 版權所有."; // "2017 aleen39.tw All rights reserved.";
     $LANG_PAGE_VERSION                 = "1.2 國際版";
     $LANG_PAGE_DAILYCALCULATE_MSG      = "系統結算中，僅開放查詢動作，結算期間 %s ~ %s。";
+    $LANG_PAGE_DAILYCALCULATE_MSG2     = "系統結算中，暫停發放獎金，結算期間 %s ~ %s。";
 
     // Session(COOKIE) & Login
     $LANG_SESSION_ACTIVE               = "<p>目前你的瀏覽器未開啟COOKIE，無法進入。</p> <br / > 請開啟COOKIE後在登入。</p>";
