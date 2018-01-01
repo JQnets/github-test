@@ -618,7 +618,7 @@
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_9    = "重消扣款";
 
 
-    // 前台訂單註冊
+    // 前台-訂單註冊
     $LANG_PROGRAM_WEBORDERS_COL_order_nickname          = "暱稱";
     $LANG_PROGRAM_WEBORDERS_COL_order_first_pwd         = "會員密碼";
     $LANG_PROGRAM_WEBORDERS_COL_order_repwd             = "確認密碼";
@@ -657,7 +657,22 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_can_reg           = "可註冊!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_not_reg           = "不可註冊!!";
 
-
+    // 前台-註冊升級訂單
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_phone             = "電話";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_shiper            = "收貨人";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_city              = "縣市";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_town              = "市鄉區鎮";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_address           = "地址";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_zip               = "郵遞區號";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_country           = "選擇國別";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_account           = "會員帳號";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_grade             = "配套等級";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_products          = "配套商品";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_member_title      = "STEP1：填寫基本資料";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_products_title    = "STEP2：選擇帳號及配套方案";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_model_dbcheck     = "訂單資料確認";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_choese_shiper     = "請選擇收貨人";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_custom            = "自訂";
 
     //獎勵管理: 週撥獎金
     $LANG_PROGRAM_BONUSWEEKLY_COL_daily_report               = "日結獎金報表";
@@ -792,6 +807,28 @@
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_tmoney                = "總訂單金額";
 
 
+    //我的重消訂單
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_tpv       = "總pv值";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_pre_order = "預購日期";
+
+    //重消訂單
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_1          = "填寫基本資料";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_2          = "商品選擇";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order    = "是否預購";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_1  = "不預購";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_2  = "預購";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pre_order_month = "預購月數";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pro             = "商品";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_quantity        = "數量";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pv              = "pv值";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_total           = "小計";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_rebuy_date      = "重消時間";
+
+    //重消訂單(後台)
+    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_year = "重消(年)";
+    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_month = "重消(月)";
+
+
     // 會員管理: 實名審核資料
     $LANG_PROGRAM_MEMBERIDCARD_COL_header_1                = "申請資料";
     $LANG_PROGRAM_MEMBERIDCARD_COL_header_2                = "推薦安置資料";
@@ -895,26 +932,7 @@
     $LANG_PROGRAM_ORGANIZE_COL_create_time   = "建立日期";
     $LANG_PROGRAM_ORGANIZE_COL_update_time   = "更新日期";
 
-    //我的重消訂單
-    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_tpv       = "總pv值";
-    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_pre_order = "預購日期";
 
-    //重消訂單
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_1          = "填寫基本資料";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_2          = "商品選擇";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order    = "是否預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_1  = "不預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_2  = "預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pre_order_month = "預購月數";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pro             = "商品";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_quantity        = "數量";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pv              = "pv值";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_total           = "小計";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_rebuy_date      = "重消時間";
-
-    //重消訂單(後台)
-    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_year = "重消(年)";
-    $LANG_PROGRAM_ORDERS_REBUY_COL_rebuy_month = "重消(月)";
 
     // 後台-財務管理:週獎勵
     $LANG_PROGRAM_FM_REWARD_WEEKLY_CONFIRM_REWARD       = "確定發放%s '%s' 獎勵?";
