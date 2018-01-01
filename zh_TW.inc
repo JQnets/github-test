@@ -674,7 +674,7 @@
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_choese_shiper     = "請選擇收貨人";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_custom            = "自訂";
 
-    //前台-重消訂單
+    //前台-訂單重消
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_1              = "填寫基本資料";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_2              = "商品選擇";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order        = "是否預購";
@@ -752,7 +752,7 @@
     $LANG_PROGRAM_BONUSWEEKLY_COL_bonus_rules_desc           = "<p><b>個人會員應發獎金</b><br />為獎金總合扣除10%個人所得稅及2%二代健保費後所得之金額。</p><b>公司會員應發獎金</b><br />為獎金總合，但需開立足額發票給公司。";
 
 
-    //前台我的訂單
+    //前台-我的訂單
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_sn                    = "訂單編號";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_invoice               = "發票編號";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_subscriber            = "訂購者";
@@ -800,7 +800,7 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_tmoney                = "總訂單金額";
 
 
-    //前台我的升級訂單
+    //前台-我的升級訂單
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_sn                    = "訂單編號";
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_invoice               = "發票編號";
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_consignee             = "收貨人名稱";
@@ -836,9 +836,45 @@
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_tmoney                = "總訂單金額";
 
 
-    //我的重消訂單
-    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_tpv       = "總pv值";
-    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_pre_order = "預購日期";
+
+    //前台-我的重消訂單
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_sn                    = "訂單編號";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_invoice               = "發票編號";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_consignee             = "收貨人名稱";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_status                = "付款狀態";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_status_1              = "己付款";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_status_2              = "未付款";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_pay_time              = "付款時間";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_send_time             = "發貨時間";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_finish_time           = "完成時間";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_ship_status           = "發貨狀態";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_ship_status_1         = "未發";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_ship_status_2         = "已發";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_ship_status_3         = "完成";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_create_time           = "註冊日期";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_btnPay                = "付款";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_reg_msg               = "註冊完畢";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_btnCancel             = "取消訂單";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_confirm_pay           = "總訂單金額為 %s ,是否付款?";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_confirm_cancel        = "是否取消訂單?";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_userbonusbalance_text = "財富金不足!!";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_pay_msg               = "付款完畢";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_cancel_msg            = "取消完畢";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_grade                 = "配套等級";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_product               = "配套商品";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_phone                 = "手機";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_email                 = "信箱";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_country               = "國家";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_city                  = "縣市";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_town                  = "鄉鎮區";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_zip                   = "郵遞區號";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_address               = "地址";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_money                 = "訂單金額";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_tmoney                = "總訂單金額";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_pre_order                      = "重消日期";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_valid_y               = "未過期";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_valid_n               = "過期失效";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_btnMCancel            = "多筆取消訂單";
 
 
 
