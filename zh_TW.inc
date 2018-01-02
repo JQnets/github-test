@@ -683,9 +683,9 @@
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_1              = "填寫基本資料";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_step_2              = "商品選擇";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order        = "是否預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_1      = "不預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_2      = "預購";
-    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pre_order_month     = "預購月數";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_1      = "當月";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_is_pre_order_2      = "當月 + 預購";
+    $LANG_PROGRAM_WEBORDERS_REBUY_COL_pre_order_month     = "購買月數";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_pro                 = "商品";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_quantity            = "數量";
     $LANG_PROGRAM_WEBORDERS_REBUY_COL_pv                  = "PV值";
