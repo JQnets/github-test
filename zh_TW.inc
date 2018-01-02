@@ -826,6 +826,8 @@
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_valid_y               = "未過期";
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_valid_n               = "過期失效";
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_btnMCancel            = "多筆取消訂單";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_year                  = "重消(年)";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_month                 = "重消(月)";
 
     //獎勵管理: 週撥獎金
     $LANG_PROGRAM_BONUSWEEKLY_COL_daily_report               = "日結獎金報表";
