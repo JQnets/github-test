@@ -789,6 +789,7 @@
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_address               = "地址";
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_money                 = "訂單金額";
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_tmoney                = "總訂單金額";
+    $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_paylog                = "節點帳號:%s升級扣款(升級後等級:%s),付款人:%s";
 
     //前台-我的重消訂單
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_sn                    = "訂單編號";
