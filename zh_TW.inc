@@ -465,6 +465,7 @@
     $LANG_PROGRAM_PRODUCTS_COL_total        = "總金額";
     $LANG_PROGRAM_PRODUCTS_COL_set_total    = "調整後總金額";
     $LANG_PROGRAM_PRODUCTS_COL_produ_pv2    = "固定業績(PV)";
+    $LANG_PROGRAM_PRODUCTS_COL_choose       = "請選擇";
 
 
     // 前台系統公告 (notice)
