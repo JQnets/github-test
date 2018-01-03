@@ -865,7 +865,7 @@
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pair_bonus_src       = "對碰獎金來源";
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_equal_bonus_src      = "對等獎金來源";
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_bonus_maker          = "產生用戶";
-    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement          = "產生業績";
+    $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement          = "計算業績";
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_pair_bonus2          = "產生對碰獎金";
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_yestoday = "昨日保留業績";
     $LANG_PROGRAM_BONUSWEEKLY_COL_mempe_achievement_todey    = "今日新增業績";
