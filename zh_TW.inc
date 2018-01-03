@@ -752,6 +752,9 @@
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_total_text            = "訂單總量";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_money                 = "訂單金額";
     $LANG_PROGRAM_WEBMEORDERS_COL_order_me_tmoney                = "總訂單金額";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_node_acc              = "節點帳號";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_refund                = "退款人";
+    $LANG_PROGRAM_WEBMEORDERS_COL_order_me_payer                 = "付款人";
 
     //前台-我的升級訂單
     $LANG_PROGRAM_WEBMEORDERS_UPGRADE_COL_order_me_sn                    = "訂單編號";
@@ -828,6 +831,9 @@
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_btnMCancel            = "多筆取消訂單";
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_year                  = "重消(年)";
     $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_month                 = "重消(月)";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_node_acc              = "節點帳號";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_refund                = "退款人";
+    $LANG_PROGRAM_WEBMEORDERS_REBUY_COL_order_me_payer                 = "付款人";
 
     //獎勵管理: 週撥獎金
     $LANG_PROGRAM_BONUSWEEKLY_COL_daily_report               = "日結獎金報表";
