@@ -458,6 +458,7 @@
     $LANG_PROGRAM_PRODUCTS_COL_combination  = "組合產品";
     $LANG_PROGRAM_PRODUCTS_COL_produ_detail = "描述";
     $LANG_PROGRAM_PRODUCTS_COL_can_delete   = "是否能刪除";
+    $LANG_PROGRAM_PRODUCTS_COL_price        = "價格";
 
 
     // 前台系統公告 (notice)
