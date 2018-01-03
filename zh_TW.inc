@@ -95,10 +95,10 @@
     $LANG_SYSTEM_COMMON_FUNC_5         = "聯繫客服";
     $LANG_SYSTEM_COMMON_FUNC_5         = "聯繫客服";
     $LANG_SYSTEM_USER_PV               = "我的PV收益";
-    $LANG_SYSTEM_USER_PV_ADDITION      = "新增獎金";
+    $LANG_SYSTEM_USER_PV_ADDITION      = "上週新增獎金";
     $LANG_SYSTEM_USER_PV_HISTORY       = "歷史獎金";
     $LANG_SYSTEM_USER_BUSINESS         = "我的業務資訊";
-    $LANG_SYSTEM_USER_BUSINESS_LEVEL   = "目前層數";
+    $LANG_SYSTEM_USER_BUSINESS_LEVEL   = "目前子層數";
     $LANG_SYSTEM_USER_BUSINESS_PROMOTE = "推薦人數";
     $LANG_SYSTEM_CURRENCY              = "幣別";
     $LANG_SYSTEM_CURRENCY_USD          = "美元";
