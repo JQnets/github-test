@@ -459,6 +459,10 @@
     $LANG_PROGRAM_PRODUCTS_COL_produ_detail = "描述";
     $LANG_PROGRAM_PRODUCTS_COL_can_delete   = "是否能刪除";
     $LANG_PROGRAM_PRODUCTS_COL_produ_price  = "價格";
+    $LANG_PROGRAM_PRODUCTS_COL_quantity     = "數量";
+    $LANG_PROGRAM_PRODUCTS_COL_pro_com      = "商品組合";
+    $LANG_PROGRAM_PRODUCTS_COL_total        = "總金額(4折折扣)";
+    $LANG_PROGRAM_PRODUCTS_COL_set_total    = "調整後總金額";
 
 
     // 前台系統公告 (notice)
