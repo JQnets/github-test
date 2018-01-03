@@ -451,7 +451,7 @@
     $LANG_PROGRAM_PRODUCTS_COL_proca_id     = "類別";
     $LANG_PROGRAM_PRODUCTS_COL_grade_id     = "配套等級";
     $LANG_PROGRAM_PRODUCTS_COL_produ_name   = "名稱";
-    $LANG_PROGRAM_PRODUCTS_COL_produ_pv     = "pv值";
+    $LANG_PROGRAM_PRODUCTS_COL_produ_pv     = "固定業績";
     $LANG_PROGRAM_PRODUCTS_COL_produ_img    = "圖片";
     $LANG_PROGRAM_PRODUCTS_COL_status       = "啟用狀態";
     $LANG_PROGRAM_PRODUCTS_COL_order        = "排序";
