@@ -678,8 +678,8 @@
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_zip               = "郵遞區號";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_country           = "選擇國別";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_account           = "會員帳號";
-    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_grade             = "配套等級";
-    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_products          = "配套商品";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_grade             = "升級方案";
+    $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_products          = "升級商品";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_member_title      = "STEP1：填寫基本資料";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_products_title    = "STEP2：選擇帳號及配套方案";
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_model_dbcheck     = "訂單資料確認";
