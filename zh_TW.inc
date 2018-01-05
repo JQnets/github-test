@@ -539,11 +539,13 @@
     $LANG_PROGRAM_ORDERS_COL_is_cum                  = "是否计算奖金";
     $LANG_PROGRAM_ORDERS_COL_reg_num                 = "註冊人數";
     $LANG_PROGRAM_ORDERS_COL_ship_status             = "發貨狀態";
+    $LANG_PROGRAM_ORDERS_COL_time_status             = "時間類別";
     $LANG_PROGRAM_ORDERS_COL_create_time             = "下單時間";
     $LANG_PROGRAM_ORDERS_COL_order_pay_type          = "付款方式";
     $LANG_PROGRAM_ORDERS_COL_shiper_block            = "收貨人資料";
     $LANG_PROGRAM_ORDERS_COL_order_area_left         = "左區";
     $LANG_PROGRAM_ORDERS_COL_order_area_right        = "右區";
+    $LANG_PROGRAM_ORDERS_COL_order_status            = "付款狀態";
     $LANG_PROGRAM_ORDERS_COL_order_status_is_pay     = "已付款";
     $LANG_PROGRAM_ORDERS_COL_order_status_no_pay     = "未付款";
     $LANG_PROGRAM_ORDERS_COL_order_type_1            = "註冊";
@@ -557,6 +559,8 @@
     $LANG_PROGRAM_ORDERS_COL_rebuy_year              = "重消(年)";
     $LANG_PROGRAM_ORDERS_COL_rebuy_month             = "重消(月)";
     $LANG_PROGRAM_ORDERS_COL_order_tmoney            = "總訂單金額";
+    $LANG_PROGRAM_ORDERS_COL_start_date              = "開始日期";
+    $LANG_PROGRAM_ORDERS_COL_end_date                = "結束日期";
 
     //業務管理
     $LANG_PROGRAM_NODETREE_COL_QUERY_MSG            = "請輸入會員帳號";
