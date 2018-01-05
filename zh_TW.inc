@@ -81,6 +81,8 @@
     // 系統
     $LANG_SYSTEM_BONUS_STORED          = "儲值";
     $LANG_SYSTEM_BONUS_TRANSFER        = "互轉";
+    $LANG_SYSTEM_BONUS_RENEW           = "續約";
+    $LANG_SYSTEM_BONUS_RENEW_PAY       = "續約繳費";
     $LANG_SYSTEM_CAPITAL_TO_BALANCE    = "轉入財富金";
     $LANG_SYSTEM_FUND_TO_MALL          = "轉入商城積分";
     $LANG_SYSTEM_READ_MORE             = "查看更多";
