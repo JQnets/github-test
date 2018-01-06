@@ -114,6 +114,8 @@
     $LANG_SYSTEM_OPER_FAIL             = "操作失敗";
     $LANG_SYSTEM_AUTH_FAIL             = "程式認證失敗";
     $LANG_SYSTEM_AUTOCREATE            = "系統自動建立";
+    $LANG_SYSTEM_IS_RENEW              = "你是否確定要續約,費用為: %s (PV)";
+
 
     // 通用
     $LANG_COMMON_TEXT_HOME             = "首頁";
@@ -674,6 +676,9 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_can_reg           = "可註冊!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_not_reg           = "不可註冊!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_tmoney            = "總訂單金額";
+    $LANG_PROGRAM_WEBORDERS_COL_order_choese_shiper     = "請選擇收貨人";
+    $LANG_PROGRAM_WEBORDERS_COL_order_custom            = "自訂";
+
 
     // 前台-訂單升級
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_phone             = "電話";
