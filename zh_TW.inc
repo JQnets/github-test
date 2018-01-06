@@ -633,7 +633,7 @@
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_7    = "轉財富金";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_8    = "升級扣款";
     $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_9    = "重消扣款";
-
+    $LANG_PROGRAM_FM_ACCOUNT_LOG_COL_acclo_type_10   = "續約扣款";
 
     // 前台-訂單註冊
     $LANG_PROGRAM_WEBORDERS_COL_order_nickname          = "暱稱";
