@@ -115,7 +115,7 @@
     $LANG_SYSTEM_AUTH_FAIL             = "程式認證失敗";
     $LANG_SYSTEM_AUTOCREATE            = "系統自動建立";
     $LANG_SYSTEM_IS_RENEW              = "你是否確定要續約,費用為: %s (PV)";
-
+    $LANG_SYSTEM_RENEW_OK              = "續約完畢";
 
     // 通用
     $LANG_COMMON_TEXT_HOME             = "首頁";
