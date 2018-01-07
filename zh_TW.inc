@@ -486,8 +486,9 @@
 
 
     // 前台基本資料
-    $LANG_PROGRAM_PERSONAL_WEB_COL_create_time = "註冊時間";
-    $LANG_PROGRAM_PERSONAL_WEB_COL_member_text = "會員資訊";
+    $LANG_PROGRAM_PERSONAL_WEB_COL_create_time   = "註冊時間";
+    $LANG_PROGRAM_PERSONAL_WEB_COL_member_text   = "會員資訊";
+    $LANG_PROGRAM_PERSONAL_WEB_COL_contract_date = "會員到期日";
 
 
     // 前台密碼修改
