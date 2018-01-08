@@ -681,6 +681,7 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_custom            = "自訂";
     $LANG_PROGRAM_WEBORDERS_COL_msg_reg_ok              = "註冊完畢";
     $LANG_PROGRAM_WEBORDERS_COL_msg_reg_fail            = "帳號已被註冊,請重新申請";
+    $LANG_PROGRAM_WEBORDERS_COL_pwd_equalTo             = "密碼不一致!!";
 
     // 前台-訂單升級
     $LANG_PROGRAM_WEBORDERS_UPGRADE_COL_order_phone             = "電話";
