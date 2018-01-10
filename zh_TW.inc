@@ -671,8 +671,9 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_type_e            = "企業";
     $LANG_PROGRAM_WEBORDERS_COL_order_model_dbcheck     = "訂單資料確認";
     $LANG_PROGRAM_WEBORDERS_COL_order_no_people         = "查無此人";
-    $LANG_PROGRAM_WEBORDERS_COL_order_err_text1         = "安置人不是推薦人區域的!!";
+    $LANG_PROGRAM_WEBORDERS_COL_order_err_text1         = "安置人不在推薦人的區域內!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_err_text2         = "未付款不可註冊!!";
+    $LANG_PROGRAM_WEBORDERS_COL_order_err_text3         = "推薦人不在訂購者的區域內!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_create_acc        = "請產生一組會員帳號";
     $LANG_PROGRAM_WEBORDERS_COL_order_can_reg           = "可註冊!!";
     $LANG_PROGRAM_WEBORDERS_COL_order_not_reg           = "不可註冊!!";
