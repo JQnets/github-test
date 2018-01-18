@@ -680,6 +680,7 @@
     $LANG_PROGRAM_WEBORDERS_COL_order_tmoney            = "總訂單金額";
     $LANG_PROGRAM_WEBORDERS_COL_order_choese_shiper     = "請選擇收貨人";
     $LANG_PROGRAM_WEBORDERS_COL_order_custom            = "自訂";
+    $LANG_PROGRAM_WEBORDERS_COL_pwd_equalTo             = "密碼不一致!!";
     $LANG_PROGRAM_WEBORDERS_COL_msg_reg_ok              = "註冊完畢";
     $LANG_PROGRAM_WEBORDERS_COL_msg_reg_fail            = "帳號已被註冊,請重新申請!!";
     $LANG_PROGRAM_WEBORDERS_COL_msg_reg_fail_2          = "安置人不存在,請重新申請!!";
