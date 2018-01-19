@@ -527,6 +527,8 @@
     $LANG_PROGRAM_ORDERS_COL_order_area              = "位置";
     $LANG_PROGRAM_ORDERS_COL_order_price             = "價格";
     $LANG_PROGRAM_ORDERS_COL_order_pv                = "pv值";
+    $LANG_PROGRAM_ORDERS_COL_order_name              = "名稱";
+    $LANG_PROGRAM_ORDERS_COL_order_nickname          = "暱稱";
     $LANG_PROGRAM_ORDERS_COL_order_consignee         = "收貨人名稱";
     $LANG_PROGRAM_ORDERS_COL_order_phone             = "用户手機";
     $LANG_PROGRAM_ORDERS_COL_order_country           = "國家";
