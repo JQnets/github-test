@@ -1165,5 +1165,5 @@
         "LANG_COLUMN_BUTTON_TEXT" => "顯示/隱藏欄位",
     ];
 
-        //oldman ->2018-1-30 17:04
+
 ?>
